@@ -1,4 +1,4 @@
-[
+const playerData = [
   {
     "Name": "Karim Benzema",
     "Nationality": "French",
@@ -2408,3 +2408,5 @@
     "Avg of 6 fields": 815400
   }
 ]
+
+export default playerData;
