@@ -15,11 +15,14 @@ function Nav() {
             {
                 isLoaded && user &&  
                 <div className='flex items-center'>
-                    {user.primaryEmailAddress=='pvsalunkhe2003@gmail.com'? <Link className='m-2' href='/admin'>Admin</Link> : <p>Welcome!</p>}
                     <Link className='m-2' href="/dashboard">Dashboard</Link>
+                    {user.primaryEmailAddress=='pvsalunkhe2003@gmail.com'? <Link className='m-2' href='/admin'>Admin</Link> : <p>Welcome!</p>}
                     <p className='m-2'>{user.fullName}</p>
                     <UserButton className='m-2' afterSignOutUrl='/'/>
                 </div>
+            }
+            {
+                !isLoaded && <Link className='m-2' href="/dashboard">Dashboard</Link>
             }
             </div>
         </nav>
