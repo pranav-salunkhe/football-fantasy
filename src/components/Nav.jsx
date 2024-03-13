@@ -16,7 +16,7 @@ function Nav() {
                 isLoaded && user &&  
                 <div className='flex items-center'>
                     <Link className='m-2' href="/dashboard">Dashboard</Link>
-                    {user.primaryEmailAddress=='pvsalunkhe2003@gmail.com'? <Link className='m-2' href='/admin'>Admin</Link> : <p>Welcome!</p>}
+                    {(user.primaryEmailAddress=='pvsalunkhe2003@gmail.com' || user.primaryEmailAddress=='adarshkishore.201it103@nitk.edu.in') ? <Link className='m-2' href='/admin'>Admin</Link> : <p>Welcome!</p>}
                     <p className='m-2'>{user.fullName}</p>
                     <UserButton className='m-2' afterSignOutUrl='/'/>
                 </div>
