@@ -1,8 +1,31 @@
+"use client";
 import React from 'react'
-import { promises as fs } from 'fs';
 import playerData from '../assets/fifa23';
 import transactions from '../assets/transactions.json';
+// import { UserButton, useUser } from '@clerk/nextjs';
+
 async function AdminPage() {
+//   const {user, isLoaded} = useUser();
+  const handleAccept = async (user, playerName) => {
+        try {
+        const response = await fetch('/api/updateteam', {
+            method: 'POST',
+            headers: {
+            'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ user: user, player: playerName, action: 'accept' }),
+        });
+
+        if (response.ok) {
+            console.log('Transaction accepted');
+            // Optionally, you can update the UI or state to reflect the accepted transaction
+        } else {
+            console.error('Failed to accept transaction:', response.statusText);
+        }
+        } catch (error) {
+        console.error('Failed to accept transaction:', error);
+        }
+    }
   return (
     <div>
         <h1>AdminPage</h1>
@@ -16,6 +39,7 @@ async function AdminPage() {
                 <p>Player Nationality: {transaction.playerNationality}</p>
                 <p>Price: {transaction.price}</p>
                 <p>Timestamp: {transaction.timestamp}</p>
+                <button onClick={() => handleAccept(transaction.user, transaction.playerName)}>Accept</button>
             </div>
             ))}
         </div>

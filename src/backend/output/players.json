@@ -1,0 +1,7914 @@
+[
+  {
+    "name": "AchrafHakimi",
+    "nationality": "Morocco",
+    "club": "Paris SG",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "92",
+    "shooting": "75",
+    "passing": "79",
+    "defence": "75",
+    "dribbling": "80",
+    "physical": "78",
+    "displayPrice": [
+      "70",
+      "87",
+      "23",
+      "-94"
+    ],
+    "sellingPrice": {
+      "A": [
+        "95",
+        "7",
+        "-37",
+        "-76"
+      ],
+      "B": [
+        "99",
+        "11",
+        "38",
+        "-82"
+      ],
+      "C": [
+        "-56",
+        "-21",
+        "29",
+        "57"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Alessandro Bastoni",
+    "nationality": "Italy",
+    "club": "Inter",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "73",
+    "shooting": "35",
+    "passing": "69",
+    "defence": "86",
+    "dribbling": "71",
+    "physical": "82",
+    "displayPrice": [
+      "61",
+      "-26",
+      "71",
+      "89"
+    ],
+    "sellingPrice": {
+      "A": [
+        "75",
+        "-20",
+        "28",
+        "96"
+      ],
+      "B": [
+        "-20",
+        "-33",
+        "71",
+        "-11"
+      ],
+      "C": [
+        "-59",
+        "54",
+        "-5",
+        "80"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/237383.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "AlphonsoDavies",
+    "nationality": "Canada",
+    "club": "FC Bayern M\u00fcnchen",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "94",
+    "shooting": "66",
+    "passing": "77",
+    "defence": "76",
+    "dribbling": "85",
+    "physical": "77",
+    "displayPrice": [
+      "-98",
+      "18",
+      "-3",
+      "-48"
+    ],
+    "sellingPrice": {
+      "A": [
+        "52",
+        "-66",
+        "25",
+        "-82"
+      ],
+      "B": [
+        "-86",
+        "87",
+        "-40",
+        "83"
+      ],
+      "C": [
+        "28",
+        "-45",
+        "-86",
+        "-87"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "AndrewRobertson",
+    "nationality": "Scotland",
+    "club": "Liverpool",
+    "position": "Defence",
+    "overall": "87",
+    "pace": "80",
+    "shooting": "61",
+    "passing": "81",
+    "defence": "82",
+    "dribbling": "81",
+    "physical": "76",
+    "displayPrice": [
+      "-39",
+      "-81",
+      "-35",
+      "14"
+    ],
+    "sellingPrice": {
+      "A": [
+        "86",
+        "-96",
+        "-78",
+        "-41"
+      ],
+      "B": [
+        "-36",
+        "-41",
+        "76",
+        "10"
+      ],
+      "C": [
+        "-98",
+        "-11",
+        "45",
+        "7"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Angelino",
+    "nationality": "Spain",
+    "club": "Hoffenheim",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "78",
+    "shooting": "81",
+    "passing": "82",
+    "defence": "76",
+    "dribbling": "84",
+    "physical": "70",
+    "displayPrice": [
+      "-37",
+      "-90",
+      "24",
+      "-89"
+    ],
+    "sellingPrice": {
+      "A": [
+        "53",
+        "-27",
+        "-70",
+        "17"
+      ],
+      "B": [
+        "67",
+        "-43",
+        "95",
+        "-16"
+      ],
+      "C": [
+        "11",
+        "83",
+        "96",
+        "64"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/220651.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "AntonioRudiger",
+    "nationality": "Germany",
+    "club": "Real Madrid",
+    "position": "Defence",
+    "overall": "87",
+    "pace": "82",
+    "shooting": "53",
+    "passing": "71",
+    "defence": "86",
+    "dribbling": "67",
+    "physical": "85",
+    "displayPrice": [
+      "24",
+      "-48",
+      "76",
+      "-97"
+    ],
+    "sellingPrice": {
+      "A": [
+        "68",
+        "-36",
+        "-69",
+        "82"
+      ],
+      "B": [
+        "-22",
+        "74",
+        "92",
+        "-14"
+      ],
+      "C": [
+        "14",
+        "72",
+        "-95",
+        "-91"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "AymericLaporte",
+    "nationality": "Spain",
+    "club": "Manchester City",
+    "position": "Defence",
+    "overall": "86",
+    "pace": "61",
+    "shooting": "50",
+    "passing": "72",
+    "defence": "86",
+    "dribbling": "69",
+    "physical": "79",
+    "displayPrice": [
+      "-76",
+      "46",
+      "33",
+      "27"
+    ],
+    "sellingPrice": {
+      "A": [
+        "52",
+        "-3",
+        "-42",
+        "-49"
+      ],
+      "B": [
+        "-63",
+        "39",
+        "-7",
+        "-86"
+      ],
+      "C": [
+        "-82",
+        "-96",
+        "-11",
+        "-39"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Bremmer",
+    "nationality": "Brazil",
+    "club": "Juventus",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "78",
+    "shooting": "50",
+    "passing": "56",
+    "defence": "84",
+    "dribbling": "65",
+    "physical": "79",
+    "displayPrice": [
+      "-43",
+      "84",
+      "-27",
+      "-53"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-4",
+        "29",
+        "-59",
+        "-12"
+      ],
+      "B": [
+        "-95",
+        "90",
+        "-97",
+        "-86"
+      ],
+      "C": [
+        "9",
+        "98",
+        "98",
+        "-41"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Carajval",
+    "nationality": "Spain",
+    "club": "Real Madrid",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "82",
+    "shooting": "54",
+    "passing": "77",
+    "defence": "78",
+    "dribbling": "80",
+    "physical": "79",
+    "displayPrice": [
+      "66",
+      "-53",
+      "-33",
+      "94"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-89",
+        "-89",
+        "-87",
+        "84"
+      ],
+      "B": [
+        "-7",
+        "-30",
+        "-12",
+        "-21"
+      ],
+      "C": [
+        "-11",
+        "4",
+        "50",
+        "64"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/204963.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Christian Romero",
+    "nationality": "Argentina",
+    "club": "Spurs",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "73",
+    "shooting": "46",
+    "passing": "57",
+    "defence": "85",
+    "dribbling": "65",
+    "physical": "82",
+    "displayPrice": [
+      "-6",
+      "44",
+      "84",
+      "36"
+    ],
+    "sellingPrice": {
+      "A": [
+        "9",
+        "-71",
+        "66",
+        "-32"
+      ],
+      "B": [
+        "-91",
+        "-36",
+        "50",
+        "-98"
+      ],
+      "C": [
+        "-74",
+        "97",
+        "-20",
+        "54"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "DavidAlaba",
+    "nationality": "Austria",
+    "club": "Real Madrid",
+    "position": "Defence",
+    "overall": "86",
+    "pace": "79",
+    "shooting": "71",
+    "passing": "83",
+    "defence": "85",
+    "dribbling": "80",
+    "physical": "77",
+    "displayPrice": [
+      "64",
+      "-32",
+      "81",
+      "-46"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-67",
+        "8",
+        "84",
+        "-84"
+      ],
+      "B": [
+        "-23",
+        "-83",
+        "-13",
+        "-89"
+      ],
+      "C": [
+        "98",
+        "66",
+        "-80",
+        "-32"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Deigo Carlos",
+    "nationality": "Brazil",
+    "club": "Aston Villa",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "76",
+    "shooting": "46",
+    "passing": "63",
+    "defence": "82",
+    "dribbling": "67",
+    "physical": "82",
+    "displayPrice": [
+      "65",
+      "-28",
+      "0",
+      "83"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-46",
+        "33",
+        "-4",
+        "22"
+      ],
+      "B": [
+        "-49",
+        "-69",
+        "80",
+        "21"
+      ],
+      "C": [
+        "-84",
+        "5",
+        "-60",
+        "53"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Eder Militao",
+    "nationality": "Brazil",
+    "club": "Real Madrid",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "86",
+    "shooting": "50",
+    "passing": "70",
+    "defence": "85",
+    "dribbling": "72",
+    "physical": "82",
+    "displayPrice": [
+      "78",
+      "-70",
+      "-72",
+      "14"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-96",
+        "-2",
+        "-97",
+        "5"
+      ],
+      "B": [
+        "-95",
+        "63",
+        "47",
+        "-90"
+      ],
+      "C": [
+        "-96",
+        "25",
+        "70",
+        "94"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Ferland Mendy",
+    "nationality": "France",
+    "club": "Real Madrid",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "92",
+    "shooting": "64",
+    "passing": "77",
+    "defence": "78",
+    "dribbling": "78",
+    "physical": "84",
+    "displayPrice": [
+      "67",
+      "-68",
+      "-58",
+      "-21"
+    ],
+    "sellingPrice": {
+      "A": [
+        "69",
+        "85",
+        "-9",
+        "-97"
+      ],
+      "B": [
+        "-91",
+        "-12",
+        "64",
+        "-70"
+      ],
+      "C": [
+        "51",
+        "92",
+        "-1",
+        "27"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/228618.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Fikayo Tomori",
+    "nationality": "England",
+    "club": "Milan",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "86",
+    "shooting": "40",
+    "passing": "60",
+    "defence": "86",
+    "dribbling": "66",
+    "physical": "81",
+    "displayPrice": [
+      "-68",
+      "-2",
+      "-46",
+      "49"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-64",
+        "53",
+        "-51",
+        "9"
+      ],
+      "B": [
+        "-95",
+        "-23",
+        "-43",
+        "65"
+      ],
+      "C": [
+        "14",
+        "81",
+        "-43",
+        "-12"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/232756.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Georgio Chiellini",
+    "nationality": "Italy",
+    "club": "LAFC",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "64",
+    "shooting": "46",
+    "passing": "60",
+    "defence": "85",
+    "dribbling": "58",
+    "physical": "83",
+    "displayPrice": [
+      "6",
+      "-31",
+      "-96",
+      "77"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-29",
+        "-44",
+        "-36",
+        "39"
+      ],
+      "B": [
+        "14",
+        "65",
+        "-52",
+        "32"
+      ],
+      "C": [
+        "-58",
+        "95",
+        "-89",
+        "26"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/186345.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Jesus Navas",
+    "nationality": "Spain",
+    "club": "Sevilla",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "85",
+    "shooting": "68",
+    "passing": "82",
+    "defence": "79",
+    "dribbling": "81",
+    "physical": "57",
+    "displayPrice": [
+      "29",
+      "18",
+      "17",
+      "54"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-61",
+        "-23",
+        "-23",
+        "69"
+      ],
+      "B": [
+        "-36",
+        "-95",
+        "8",
+        "27"
+      ],
+      "C": [
+        "-34",
+        "-79",
+        "-61",
+        "-88"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Joao Cancelo",
+    "nationality": "Portugal",
+    "club": "Manchester City",
+    "position": "Defence",
+    "overall": "88",
+    "pace": "85",
+    "shooting": "73",
+    "passing": "85",
+    "defence": "81",
+    "dribbling": "85",
+    "physical": "73",
+    "displayPrice": [
+      "-90",
+      "97",
+      "-71",
+      "25"
+    ],
+    "sellingPrice": {
+      "A": [
+        "44",
+        "23",
+        "32",
+        "4"
+      ],
+      "B": [
+        "3",
+        "11",
+        "75",
+        "26"
+      ],
+      "C": [
+        "4",
+        "5",
+        "47",
+        "-18"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Joel Mattip",
+    "nationality": "Cameroon",
+    "club": "Liverpool",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "61",
+    "shooting": "46",
+    "passing": "69",
+    "defence": "87",
+    "dribbling": "71",
+    "physical": "78",
+    "displayPrice": [
+      "18",
+      "5",
+      "39",
+      "-64"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-9",
+        "-16",
+        "13",
+        "3"
+      ],
+      "B": [
+        "-7",
+        "-15",
+        "2",
+        "91"
+      ],
+      "C": [
+        "-36",
+        "5",
+        "-4",
+        "-11"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/197061.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "John Stones",
+    "nationality": "England",
+    "club": "Man City",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "72",
+    "shooting": "51",
+    "passing": "71",
+    "defence": "84",
+    "dribbling": "75",
+    "physical": "77",
+    "displayPrice": [
+      "64",
+      "-59",
+      "8",
+      "15"
+    ],
+    "sellingPrice": {
+      "A": [
+        "61",
+        "20",
+        "-54",
+        "82"
+      ],
+      "B": [
+        "-8",
+        "-51",
+        "100",
+        "-88"
+      ],
+      "C": [
+        "36",
+        "-45",
+        "73",
+        "59"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/203574.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Jordi Alba",
+    "nationality": "Spain",
+    "club": "FC Barcelona",
+    "position": "Defence",
+    "overall": "85",
+    "pace": "84",
+    "shooting": "70",
+    "passing": "82",
+    "defence": "77",
+    "dribbling": "82",
+    "physical": "70",
+    "displayPrice": [
+      "-77",
+      "96",
+      "78",
+      "-48"
+    ],
+    "sellingPrice": {
+      "A": [
+        "5",
+        "-34",
+        "11",
+        "-37"
+      ],
+      "B": [
+        "91",
+        "-34",
+        "10",
+        "28"
+      ],
+      "C": [
+        "-82",
+        "39",
+        "-73",
+        "99"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Jose Maria Gimenez",
+    "nationality": "Uruguay",
+    "club": "Atletico de Madrid",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "71",
+    "shooting": "46",
+    "passing": "57",
+    "defence": "85",
+    "dribbling": "60",
+    "physical": "83",
+    "displayPrice": [
+      "-86",
+      "90",
+      "62",
+      "94"
+    ],
+    "sellingPrice": {
+      "A": [
+        "48",
+        "-64",
+        "-35",
+        "-73"
+      ],
+      "B": [
+        "-82",
+        "-15",
+        "-3",
+        "-81"
+      ],
+      "C": [
+        "-74",
+        "48",
+        "-53",
+        "-93"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Juan Caurado",
+    "nationality": "Columbia",
+    "club": "Juventus",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "90",
+    "shooting": "75",
+    "passing": "78",
+    "defence": "76",
+    "dribbling": "87",
+    "physical": "72",
+    "displayPrice": [
+      "-98",
+      "-86",
+      "40",
+      "22"
+    ],
+    "sellingPrice": {
+      "A": [
+        "80",
+        "3",
+        "-8",
+        "-75"
+      ],
+      "B": [
+        "56",
+        "-19",
+        "94",
+        "-73"
+      ],
+      "C": [
+        "-60",
+        "95",
+        "46",
+        "75"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/204639.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "JulesKounde",
+    "nationality": "France",
+    "club": "FC Barcelona",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "84",
+    "shooting": "45",
+    "passing": "64",
+    "defence": "85",
+    "dribbling": "74",
+    "physical": "78",
+    "displayPrice": [
+      "-100",
+      "93",
+      "-33",
+      "49"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-49",
+        "58",
+        "34",
+        "-29"
+      ],
+      "B": [
+        "-97",
+        "-98",
+        "-11",
+        "94"
+      ],
+      "C": [
+        "49",
+        "-43",
+        "-35",
+        "84"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "KalidouKoulibaly",
+    "nationality": "Senegal",
+    "club": "Chelsea",
+    "position": "Defence",
+    "overall": "87",
+    "pace": "82",
+    "shooting": "33",
+    "passing": "59",
+    "defence": "88",
+    "dribbling": "68",
+    "physical": "85",
+    "displayPrice": [
+      "-20",
+      "-50",
+      "-99",
+      "-37"
+    ],
+    "sellingPrice": {
+      "A": [
+        "66",
+        "67",
+        "11",
+        "50"
+      ],
+      "B": [
+        "-51",
+        "-21",
+        "-72",
+        "56"
+      ],
+      "C": [
+        "62",
+        "86",
+        "-90",
+        "-75"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Keiran Tripper",
+    "nationality": "England",
+    "club": "New Castle",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "70",
+    "shooting": "64",
+    "passing": "82",
+    "defence": "80",
+    "dribbling": "77",
+    "physical": "72",
+    "displayPrice": [
+      "43",
+      "10",
+      "1",
+      "99"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-31",
+        "-23",
+        "59",
+        "-76"
+      ],
+      "B": [
+        "95",
+        "-60",
+        "-89",
+        "58"
+      ],
+      "C": [
+        "-48",
+        "-82",
+        "-23",
+        "-9"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/186345.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "KyleWalker",
+    "nationality": "England",
+    "club": "Manchester City",
+    "position": "Defence",
+    "overall": "85",
+    "pace": "91",
+    "shooting": "63",
+    "passing": "77",
+    "defence": "80",
+    "dribbling": "78",
+    "physical": "82",
+    "displayPrice": [
+      "42",
+      "-81",
+      "24",
+      "-51"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-52",
+        "32",
+        "46",
+        "-95"
+      ],
+      "B": [
+        "-16",
+        "98",
+        "58",
+        "96"
+      ],
+      "C": [
+        "18",
+        "-20",
+        "-49",
+        "41"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Leonardo Bonucci",
+    "nationality": "Italy",
+    "club": "Juventus",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "54",
+    "shooting": "59",
+    "passing": "69",
+    "defence": "85",
+    "dribbling": "71",
+    "physical": "78",
+    "displayPrice": [
+      "25",
+      "-99",
+      "32",
+      "-10"
+    ],
+    "sellingPrice": {
+      "A": [
+        "34",
+        "-23",
+        "33",
+        "58"
+      ],
+      "B": [
+        "-78",
+        "-17",
+        "-48",
+        "7"
+      ],
+      "C": [
+        "39",
+        "-84",
+        "68",
+        "-81"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/184344.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "LucasHernandez",
+    "nationality": "France",
+    "club": "FC Bayern M\u00fcnchen",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "77",
+    "shooting": "54",
+    "passing": "70",
+    "defence": "84",
+    "dribbling": "71",
+    "physical": "80",
+    "displayPrice": [
+      "39",
+      "-88",
+      "85",
+      "-31"
+    ],
+    "sellingPrice": {
+      "A": [
+        "80",
+        "65",
+        "12",
+        "96"
+      ],
+      "B": [
+        "28",
+        "54",
+        "-80",
+        "41"
+      ],
+      "C": [
+        "-66",
+        "42",
+        "-33",
+        "76"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "MarcosAcuna",
+    "nationality": "Argentina",
+    "club": "Sevilla FC",
+    "position": "Defence",
+    "overall": "85",
+    "pace": "76",
+    "shooting": "74",
+    "passing": "83",
+    "defence": "80",
+    "dribbling": "87",
+    "physical": "83",
+    "displayPrice": [
+      "-16",
+      "81",
+      "-67",
+      "-49"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-34",
+        "-56",
+        "-84",
+        "52"
+      ],
+      "B": [
+        "-4",
+        "30",
+        "-4",
+        "-44"
+      ],
+      "C": [
+        "-52",
+        "-49",
+        "41",
+        "24"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Marquinhos",
+    "nationality": "Brazil",
+    "club": "Paris SG",
+    "position": "Defence",
+    "overall": "88",
+    "pace": "79",
+    "shooting": "56",
+    "passing": "75",
+    "defence": "89",
+    "dribbling": "74",
+    "physical": "80",
+    "displayPrice": [
+      "68",
+      "-20",
+      "-37",
+      "-22"
+    ],
+    "sellingPrice": {
+      "A": [
+        "34",
+        "89",
+        "96",
+        "-29"
+      ],
+      "B": [
+        "-56",
+        "100",
+        "33",
+        "-99"
+      ],
+      "C": [
+        "-77",
+        "26",
+        "68",
+        "69"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Mats Hummel",
+    "nationality": "Germany",
+    "club": "Borussia Dortmund",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "53",
+    "shooting": "59",
+    "passing": "76",
+    "defence": "87",
+    "dribbling": "72",
+    "physical": "78",
+    "displayPrice": [
+      "-83",
+      "40",
+      "45",
+      "77"
+    ],
+    "sellingPrice": {
+      "A": [
+        "70",
+        "-84",
+        "-27",
+        "-45"
+      ],
+      "B": [
+        "56",
+        "-86",
+        "94",
+        "-93"
+      ],
+      "C": [
+        "22",
+        "-38",
+        "-62",
+        "-71"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/178603.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Matthijsde Ligt",
+    "nationality": "Holland",
+    "club": "FC Bayern M\u00fcnchen",
+    "position": "Defence",
+    "overall": "85",
+    "pace": "75",
+    "shooting": "59",
+    "passing": "61",
+    "defence": "84",
+    "dribbling": "69",
+    "physical": "87",
+    "displayPrice": [
+      "22",
+      "-38",
+      "99",
+      "-90"
+    ],
+    "sellingPrice": {
+      "A": [
+        "8",
+        "76",
+        "32",
+        "33"
+      ],
+      "B": [
+        "-46",
+        "10",
+        "-44",
+        "1"
+      ],
+      "C": [
+        "-92",
+        "-14",
+        "-15",
+        "-84"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "MilanSkriniar",
+    "nationality": "Slovakia",
+    "club": "Inter",
+    "position": "Defence",
+    "overall": "86",
+    "pace": "78",
+    "shooting": "41",
+    "passing": "57",
+    "defence": "88",
+    "dribbling": "69",
+    "physical": "86",
+    "displayPrice": [
+      "-17",
+      "46",
+      "-98",
+      "60"
+    ],
+    "sellingPrice": {
+      "A": [
+        "82",
+        "-34",
+        "-55",
+        "48"
+      ],
+      "B": [
+        "20",
+        "82",
+        "-44",
+        "49"
+      ],
+      "C": [
+        "7",
+        "-7",
+        "42",
+        "-42"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "NiklasSule",
+    "nationality": "Germany",
+    "club": "Borussia Dortmund",
+    "position": "Defence",
+    "overall": "85",
+    "pace": "71",
+    "shooting": "48",
+    "passing": "66",
+    "defence": "85",
+    "dribbling": "59",
+    "physical": "83",
+    "displayPrice": [
+      "-96",
+      "-19",
+      "78",
+      "-65"
+    ],
+    "sellingPrice": {
+      "A": [
+        "14",
+        "-10",
+        "20",
+        "-15"
+      ],
+      "B": [
+        "31",
+        "-20",
+        "91",
+        "18"
+      ],
+      "C": [
+        "-96",
+        "-48",
+        "-37",
+        "21"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Pau Torres",
+    "nationality": "Spain",
+    "club": "Villarreal",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "73",
+    "shooting": "38",
+    "passing": "67",
+    "defence": "84",
+    "dribbling": "70",
+    "physical": "81",
+    "displayPrice": [
+      "-32",
+      "11",
+      "44",
+      "73"
+    ],
+    "sellingPrice": {
+      "A": [
+        "14",
+        "90",
+        "14",
+        "13"
+      ],
+      "B": [
+        "-60",
+        "16",
+        "-38",
+        "-32"
+      ],
+      "C": [
+        "43",
+        "71",
+        "44",
+        "-11"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Pique",
+    "nationality": "Spain",
+    "club": "Barcelona",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "56",
+    "shooting": "61",
+    "passing": "71",
+    "defence": "84",
+    "dribbling": "68",
+    "physical": "77",
+    "displayPrice": [
+      "48",
+      "-73",
+      "97",
+      "10"
+    ],
+    "sellingPrice": {
+      "A": [
+        "47",
+        "-70",
+        "-25",
+        "-96"
+      ],
+      "B": [
+        "-49",
+        "-40",
+        "-76",
+        "-22"
+      ],
+      "C": [
+        "97",
+        "20",
+        "24",
+        "-45"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Presnel Kimpembe",
+    "nationality": "France'",
+    "club": "Paris SG",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "80",
+    "shooting": "43",
+    "passing": "68",
+    "defence": "83",
+    "dribbling": "69",
+    "physical": "86",
+    "displayPrice": [
+      "-43",
+      "-39",
+      "68",
+      "78"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-76",
+        "18",
+        "-45",
+        "49"
+      ],
+      "B": [
+        "-50",
+        "62",
+        "-74",
+        "-43"
+      ],
+      "C": [
+        "-58",
+        "-68",
+        "12",
+        "68"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/225850.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Ralphael Varane",
+    "nationality": "France",
+    "club": "Man United",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "81",
+    "shooting": "49",
+    "passing": "64",
+    "defence": "85",
+    "dribbling": "66",
+    "physical": "80",
+    "displayPrice": [
+      "92",
+      "93",
+      "-55",
+      "59"
+    ],
+    "sellingPrice": {
+      "A": [
+        "30",
+        "-11",
+        "6",
+        "-74"
+      ],
+      "B": [
+        "-17",
+        "79",
+        "85",
+        "-46"
+      ],
+      "C": [
+        "-44",
+        "94",
+        "-93",
+        "-53"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "ReeceJames",
+    "nationality": "England",
+    "club": "Chelsea",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "81",
+    "shooting": "70",
+    "passing": "82",
+    "defence": "80",
+    "dribbling": "82",
+    "physical": "82",
+    "displayPrice": [
+      "-58",
+      "-13",
+      "24",
+      "88"
+    ],
+    "sellingPrice": {
+      "A": [
+        "80",
+        "38",
+        "-31",
+        "20"
+      ],
+      "B": [
+        "16",
+        "-69",
+        "-50",
+        "-39"
+      ],
+      "C": [
+        "-51",
+        "99",
+        "75",
+        "74"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Ricardo Periera",
+    "nationality": "Portugal",
+    "club": "Leiscester",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "79",
+    "shooting": "67",
+    "passing": "79",
+    "defence": "80",
+    "dribbling": "81",
+    "physical": "73",
+    "displayPrice": [
+      "22",
+      "57",
+      "-62",
+      "-72"
+    ],
+    "sellingPrice": {
+      "A": [
+        "0",
+        "22",
+        "93",
+        "-90"
+      ],
+      "B": [
+        "83",
+        "71",
+        "-27",
+        "85"
+      ],
+      "C": [
+        "-35",
+        "-2",
+        "-80",
+        "63"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Ronald Araujo",
+    "nationality": "Uruguay",
+    "club": "Barcelona",
+    "position": "Defence",
+    "overall": "83",
+    "pace": "77",
+    "shooting": "51",
+    "passing": "65",
+    "defence": "83",
+    "dribbling": "61",
+    "physical": "83",
+    "displayPrice": [
+      "46",
+      "-9",
+      "-72",
+      "-15"
+    ],
+    "sellingPrice": {
+      "A": [
+        "61",
+        "49",
+        "-27",
+        "-41"
+      ],
+      "B": [
+        "61",
+        "-56",
+        "-23",
+        "-82"
+      ],
+      "C": [
+        "-4",
+        "6",
+        "33",
+        "-48"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/253163.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Ruben Dias",
+    "nationality": "Portugal",
+    "club": "Manchester City",
+    "position": "Defence",
+    "overall": "88",
+    "pace": "63",
+    "shooting": "39",
+    "passing": "66",
+    "defence": "88",
+    "dribbling": "68",
+    "physical": "88",
+    "displayPrice": [
+      "92",
+      "-65",
+      "35",
+      "-75"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-66",
+        "77",
+        "-73",
+        "-15"
+      ],
+      "B": [
+        "-54",
+        "55",
+        "-57",
+        "-92"
+      ],
+      "C": [
+        "-76",
+        "-85",
+        "55",
+        "-84"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Sergio Ramos",
+    "nationality": "Spain",
+    "club": "Paris SG",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "61",
+    "shooting": "69",
+    "passing": "73",
+    "defence": "83",
+    "dribbling": "70",
+    "physical": "77",
+    "displayPrice": [
+      "-68",
+      "14",
+      "-95",
+      "-31"
+    ],
+    "sellingPrice": {
+      "A": [
+        "63",
+        "21",
+        "69",
+        "-45"
+      ],
+      "B": [
+        "-15",
+        "22",
+        "80",
+        "-29"
+      ],
+      "C": [
+        "-26",
+        "-40",
+        "-75",
+        "-87"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Stefan Slavic",
+    "nationality": "Montenegro",
+    "club": "Atletico De Madrid",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "64",
+    "shooting": "35",
+    "passing": "58",
+    "defence": "87",
+    "dribbling": "58",
+    "physical": "80",
+    "displayPrice": [
+      "-86",
+      "-20",
+      "-47",
+      "-90"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-3",
+        "-30",
+        "-54",
+        "-43"
+      ],
+      "B": [
+        "18",
+        "-74",
+        "58",
+        "-74"
+      ],
+      "C": [
+        "20",
+        "22",
+        "-70",
+        "-56"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/204639.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Stephan De Vrij",
+    "nationality": "Holland",
+    "club": "Inter",
+    "position": "Defence",
+    "overall": "84",
+    "pace": "68",
+    "shooting": "41",
+    "passing": "65",
+    "defence": "87",
+    "dribbling": "69",
+    "physical": "79",
+    "displayPrice": [
+      "-4",
+      "-8",
+      "-83",
+      "-17"
+    ],
+    "sellingPrice": {
+      "A": [
+        "37",
+        "-37",
+        "98",
+        "88"
+      ],
+      "B": [
+        "46",
+        "-87",
+        "55",
+        "71"
+      ],
+      "C": [
+        "-98",
+        "-94",
+        "-80",
+        "31"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/198176.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "TheoHernandez",
+    "nationality": "France",
+    "club": "Milan",
+    "position": "Defence",
+    "overall": "85",
+    "pace": "93",
+    "shooting": "72",
+    "passing": "76",
+    "defence": "78",
+    "dribbling": "81",
+    "physical": "83",
+    "displayPrice": [
+      "45",
+      "-83",
+      "48",
+      "-27"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-30",
+        "32",
+        "-44",
+        "92"
+      ],
+      "B": [
+        "43",
+        "-77",
+        "-65",
+        "40"
+      ],
+      "C": [
+        "-3",
+        "24",
+        "17",
+        "81"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Thiago Silva",
+    "nationality": "Brazil",
+    "club": "Chelsea",
+    "position": "Defence",
+    "overall": "86",
+    "pace": "49",
+    "shooting": "54",
+    "passing": "73",
+    "defence": "87",
+    "dribbling": "72",
+    "physical": "76",
+    "displayPrice": [
+      "-3",
+      "15",
+      "-10",
+      "99"
+    ],
+    "sellingPrice": {
+      "A": [
+        "49",
+        "-84",
+        "85",
+        "-13"
+      ],
+      "B": [
+        "8",
+        "78",
+        "-15",
+        "18"
+      ],
+      "C": [
+        "-27",
+        "-20",
+        "-63",
+        "91"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "TrentAlexander-Arnold",
+    "nationality": "England",
+    "club": "Liverpool",
+    "position": "Defence",
+    "overall": "87",
+    "pace": "76",
+    "shooting": "69",
+    "passing": "89",
+    "defence": "80",
+    "dribbling": "80",
+    "physical": "73",
+    "displayPrice": [
+      "18",
+      "58",
+      "65",
+      "76"
+    ],
+    "sellingPrice": {
+      "A": [
+        "76",
+        "84",
+        "-94",
+        "7"
+      ],
+      "B": [
+        "66",
+        "94",
+        "-11",
+        "100"
+      ],
+      "C": [
+        "1",
+        "-92",
+        "-53",
+        "90"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Virgil Van Dijik",
+    "nationality": "Holland",
+    "club": "Liverpool",
+    "position": "Defence",
+    "overall": "90",
+    "pace": "81",
+    "shooting": "60",
+    "passing": "71",
+    "defence": "91",
+    "dribbling": "72",
+    "physical": "86",
+    "displayPrice": [
+      "5",
+      "-83",
+      "98",
+      "48"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-9",
+        "-19",
+        "-60",
+        "-62"
+      ],
+      "B": [
+        "80",
+        "7",
+        "-6",
+        "-3"
+      ],
+      "C": [
+        "97",
+        "-62",
+        "23",
+        "88"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Karim Benzema",
+    "nationality": "French",
+    "club": "Real Madrid",
+    "position": "Forward",
+    "overall": "91",
+    "pace": "80",
+    "shooting": "88",
+    "passing": "83",
+    "defence": "39",
+    "dribbling": "87",
+    "physical": "78",
+    "displayPrice": [
+      "92",
+      "-49",
+      "-18",
+      "-17"
+    ],
+    "sellingPrice": {
+      "A": [
+        "1",
+        "-62",
+        "70",
+        "-48"
+      ],
+      "B": [
+        "30",
+        "62",
+        "-81",
+        "-6"
+      ],
+      "C": [
+        "-72",
+        "40",
+        "35",
+        "-25"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/165153.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Robert Lewandowski",
+    "nationality": "Poland",
+    "club": "Barcelona",
+    "position": "Forward",
+    "overall": "91",
+    "pace": "75",
+    "shooting": "91",
+    "passing": "79",
+    "defence": "44",
+    "dribbling": "86",
+    "physical": "83",
+    "displayPrice": [
+      "-20",
+      "43",
+      "-88",
+      "4"
+    ],
+    "sellingPrice": {
+      "A": [
+        "44",
+        "66",
+        "38",
+        "-21"
+      ],
+      "B": [
+        "-61",
+        "26",
+        "39",
+        "-82"
+      ],
+      "C": [
+        "-95",
+        "-74",
+        "1",
+        "-98"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Kylian Mbappe",
+    "nationality": "French",
+    "club": "PSG",
+    "position": "Forward",
+    "overall": "91",
+    "pace": "97",
+    "shooting": "89",
+    "passing": "90",
+    "defence": "34",
+    "dribbling": "94",
+    "physical": "64",
+    "displayPrice": [
+      "-63",
+      "-2",
+      "11",
+      "80"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-53",
+        "-1",
+        "44",
+        "72"
+      ],
+      "B": [
+        "-97",
+        "83",
+        "13",
+        "74"
+      ],
+      "C": [
+        "-74",
+        "84",
+        "23",
+        "97"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Lionel Messi",
+    "nationality": "Argentina ",
+    "club": "PSG",
+    "position": "Forward",
+    "overall": "91",
+    "pace": "81",
+    "shooting": "89",
+    "passing": "90",
+    "defence": "34",
+    "dribbling": "94",
+    "physical": "64",
+    "displayPrice": [
+      "-83",
+      "15",
+      "15",
+      "-66"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-38",
+        "56",
+        "99",
+        "-21"
+      ],
+      "B": [
+        "-41",
+        "95",
+        "81",
+        "94"
+      ],
+      "C": [
+        "-28",
+        "-54",
+        "-11",
+        "-59"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Mohamed Salah",
+    "nationality": "Egypt",
+    "club": "Liberpool",
+    "position": "Forward",
+    "overall": "90",
+    "pace": "90",
+    "shooting": "89",
+    "passing": "82",
+    "defence": "45",
+    "dribbling": "90",
+    "physical": "75",
+    "displayPrice": [
+      "-67",
+      "84",
+      "-48",
+      "9"
+    ],
+    "sellingPrice": {
+      "A": [
+        "4",
+        "-56",
+        "-69",
+        "-14"
+      ],
+      "B": [
+        "28",
+        "86",
+        "-22",
+        "55"
+      ],
+      "C": [
+        "-89",
+        "-93",
+        "80",
+        "43"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Cristiano Ronaldo ",
+    "nationality": "Portugal ",
+    "club": "Manchester United",
+    "position": "Forward",
+    "overall": "90",
+    "pace": "81",
+    "shooting": "92",
+    "passing": "78",
+    "defence": "34",
+    "dribbling": "85",
+    "physical": "75",
+    "displayPrice": [
+      "20",
+      "-7",
+      "-83",
+      "-29"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-63",
+        "98",
+        "-75",
+        "51"
+      ],
+      "B": [
+        "-22",
+        "-82",
+        "15",
+        "13"
+      ],
+      "C": [
+        "-62",
+        "-21",
+        "-84",
+        "67"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Neymar Jr.",
+    "nationality": "Brazil",
+    "club": "PSG",
+    "position": "Forward",
+    "overall": "89",
+    "pace": "87",
+    "shooting": "83",
+    "passing": "85",
+    "defence": "37",
+    "dribbling": "93",
+    "physical": "61",
+    "displayPrice": [
+      "88",
+      "-7",
+      "-66",
+      "68"
+    ],
+    "sellingPrice": {
+      "A": [
+        "26",
+        "-44",
+        "54",
+        "-81"
+      ],
+      "B": [
+        "-73",
+        "-70",
+        "-2",
+        "-33"
+      ],
+      "C": [
+        "72",
+        "11",
+        "97",
+        "31"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Heung Min Son",
+    "nationality": "South Korea ",
+    "club": "Tottenham ",
+    "position": "Forward",
+    "overall": "89",
+    "pace": "88",
+    "shooting": "89",
+    "passing": "82",
+    "defence": "42",
+    "dribbling": "86",
+    "physical": "69",
+    "displayPrice": [
+      "-36",
+      "-55",
+      "36",
+      "-49"
+    ],
+    "sellingPrice": {
+      "A": [
+        "13",
+        "62",
+        "87",
+        "-67"
+      ],
+      "B": [
+        "-99",
+        "-17",
+        "-72",
+        "-96"
+      ],
+      "C": [
+        "-90",
+        "17",
+        "8",
+        "-46"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Harry Kane",
+    "nationality": "United Kingdom ",
+    "club": "tottenham",
+    "position": "Forward",
+    "overall": "89",
+    "pace": "68",
+    "shooting": "91",
+    "passing": "83",
+    "defence": "47",
+    "dribbling": "82",
+    "physical": "82",
+    "displayPrice": [
+      "34",
+      "15",
+      "85",
+      "25"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-32",
+        "59",
+        "-39",
+        "-94"
+      ],
+      "B": [
+        "-81",
+        "60",
+        "-31",
+        "14"
+      ],
+      "C": [
+        "13",
+        "-4",
+        "90",
+        "-15"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Erling Haaland",
+    "nationality": "Norway ",
+    "club": "Manchester City",
+    "position": "Forward",
+    "overall": "88",
+    "pace": "89",
+    "shooting": "91",
+    "passing": "65",
+    "defence": "49",
+    "dribbling": "80",
+    "physical": "87",
+    "displayPrice": [
+      "100",
+      "-15",
+      "-42",
+      "-79"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-71",
+        "-63",
+        "73",
+        "14"
+      ],
+      "B": [
+        "34",
+        "-64",
+        "-68",
+        "-64"
+      ],
+      "C": [
+        "-46",
+        "52",
+        "-62",
+        "-76"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Vinicius Jr.",
+    "nationality": "Brazil",
+    "club": "Real Madrid ",
+    "position": "Forward",
+    "overall": "86",
+    "pace": "95",
+    "shooting": "79",
+    "passing": "74",
+    "defence": "29",
+    "dribbling": "90",
+    "physical": "67",
+    "displayPrice": [
+      "41",
+      "-48",
+      "97",
+      "-56"
+    ],
+    "sellingPrice": {
+      "A": [
+        "68",
+        "-76",
+        "64",
+        "-46"
+      ],
+      "B": [
+        "-61",
+        "-86",
+        "14",
+        "-82"
+      ],
+      "C": [
+        "16",
+        "26",
+        "55",
+        "17"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Christopher Nkunku",
+    "nationality": "France",
+    "club": "RB Leipzig",
+    "position": "Forward",
+    "overall": "86",
+    "pace": "88",
+    "shooting": "81",
+    "passing": "83",
+    "defence": "65",
+    "dribbling": "88",
+    "physical": "66",
+    "displayPrice": [
+      "-17",
+      "99",
+      "-34",
+      "-38"
+    ],
+    "sellingPrice": {
+      "A": [
+        "4",
+        "-27",
+        "72",
+        "0"
+      ],
+      "B": [
+        "88",
+        "-72",
+        "-85",
+        "21"
+      ],
+      "C": [
+        "-68",
+        "47",
+        "82",
+        "29"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Lautaro Martinez",
+    "nationality": "Argentina ",
+    "club": "Inter Milan",
+    "position": "Forward",
+    "overall": "86",
+    "pace": "83",
+    "shooting": "83",
+    "passing": "72",
+    "defence": "48",
+    "dribbling": "85",
+    "physical": "84",
+    "displayPrice": [
+      "22",
+      "95",
+      "42",
+      "23"
+    ],
+    "sellingPrice": {
+      "A": [
+        "93",
+        "89",
+        "-23",
+        "-54"
+      ],
+      "B": [
+        "-62",
+        "33",
+        "-42",
+        "23"
+      ],
+      "C": [
+        "-31",
+        "-70",
+        "-57",
+        "-22"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Paulo Dybala",
+    "nationality": "Argentina",
+    "club": "AS Roma",
+    "position": "Forward",
+    "overall": "86",
+    "pace": "80",
+    "shooting": "85",
+    "passing": "85",
+    "defence": "40",
+    "dribbling": "90",
+    "physical": "59",
+    "displayPrice": [
+      "24",
+      "42",
+      "9",
+      "-71"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-97",
+        "-47",
+        "60",
+        "-26"
+      ],
+      "B": [
+        "-25",
+        "12",
+        "11",
+        "66"
+      ],
+      "C": [
+        "-7",
+        "-38",
+        "59",
+        "-22"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Raheem Sterling",
+    "nationality": "United Kingdom ",
+    "club": "Chelsea",
+    "position": "Forward",
+    "overall": "86",
+    "pace": "90",
+    "shooting": "80",
+    "passing": "78",
+    "defence": "45",
+    "dribbling": "86",
+    "physical": "67",
+    "displayPrice": [
+      "-39",
+      "-69",
+      "-90",
+      "57"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-30",
+        "-73",
+        "-73",
+        "84"
+      ],
+      "B": [
+        "62",
+        "-77",
+        "-16",
+        "-43"
+      ],
+      "C": [
+        "-54",
+        "-10",
+        "-90",
+        "-32"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Riyad Mahrez",
+    "nationality": "Algeria",
+    "club": "Manchester City ",
+    "position": "Forward",
+    "overall": "86",
+    "pace": "80",
+    "shooting": "83",
+    "passing": "81",
+    "defence": "38",
+    "dribbling": "90",
+    "physical": "60",
+    "displayPrice": [
+      "-51",
+      "-13",
+      "77",
+      "87"
+    ],
+    "sellingPrice": {
+      "A": [
+        "6",
+        "-77",
+        "-19",
+        "-43"
+      ],
+      "B": [
+        "52",
+        "83",
+        "6",
+        "-62"
+      ],
+      "C": [
+        "55",
+        "-30",
+        "-95",
+        "19"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Ciro Immobile",
+    "nationality": "Italy ",
+    "club": "SS Lazio",
+    "position": "Forward",
+    "overall": "86",
+    "pace": "85",
+    "shooting": "87",
+    "passing": "68",
+    "defence": "39",
+    "dribbling": "80",
+    "physical": "75",
+    "displayPrice": [
+      "-53",
+      "-44",
+      "27",
+      "-32"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-1",
+        "-46",
+        "-87",
+        "3"
+      ],
+      "B": [
+        "92",
+        "12",
+        "64",
+        "55"
+      ],
+      "C": [
+        "76",
+        "-21",
+        "-66",
+        "-14"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Romelu Lukaku",
+    "nationality": "Belgium ",
+    "club": "Inter Milan",
+    "position": "Forward",
+    "overall": "86",
+    "pace": "80",
+    "shooting": "85",
+    "passing": "75",
+    "defence": "38",
+    "dribbling": "77",
+    "physical": "82",
+    "displayPrice": [
+      "-15",
+      "42",
+      "67",
+      "50"
+    ],
+    "sellingPrice": {
+      "A": [
+        "19",
+        "42",
+        "67",
+        "80"
+      ],
+      "B": [
+        "58",
+        "-69",
+        "23",
+        "61"
+      ],
+      "C": [
+        "26",
+        "51",
+        "87",
+        "2"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Phil Foden",
+    "nationality": "United Kingdom ",
+    "club": "Manchester City",
+    "position": "Forward",
+    "overall": "85",
+    "pace": "82",
+    "shooting": "78",
+    "passing": "81",
+    "defence": "56",
+    "dribbling": "88",
+    "physical": "60",
+    "displayPrice": [
+      "74",
+      "35",
+      "48",
+      "93"
+    ],
+    "sellingPrice": {
+      "A": [
+        "70",
+        "-37",
+        "4",
+        "14"
+      ],
+      "B": [
+        "-68",
+        "-65",
+        "61",
+        "-91"
+      ],
+      "C": [
+        "-29",
+        "-64",
+        "13",
+        "21"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Diogo Jota",
+    "nationality": "Portugal",
+    "club": "Liverpool ",
+    "position": "Forward",
+    "overall": "85",
+    "pace": "85",
+    "shooting": "83",
+    "passing": "75",
+    "defence": "57",
+    "dribbling": "85",
+    "physical": "77",
+    "displayPrice": [
+      "-82",
+      "-63",
+      "78",
+      "-24"
+    ],
+    "sellingPrice": {
+      "A": [
+        "94",
+        "-10",
+        "29",
+        "90"
+      ],
+      "B": [
+        "1",
+        "-1",
+        "-2",
+        "80"
+      ],
+      "C": [
+        "-83",
+        "-95",
+        "90",
+        "61"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Patrika Schick",
+    "nationality": "Czechia",
+    "club": "Bayer Leverkusen",
+    "position": "Forward",
+    "overall": "85",
+    "pace": "78",
+    "shooting": "83",
+    "passing": "71",
+    "defence": "36",
+    "dribbling": "83",
+    "physical": "76",
+    "displayPrice": [
+      "-67",
+      "-84",
+      "32",
+      "38"
+    ],
+    "sellingPrice": {
+      "A": [
+        "60",
+        "-24",
+        "-2",
+        "79"
+      ],
+      "B": [
+        "-9",
+        "89",
+        "57",
+        "94"
+      ],
+      "C": [
+        "2",
+        "77",
+        "-9",
+        "0"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Gerard Moreno",
+    "nationality": "Spain",
+    "club": "Villarreal CF",
+    "position": "Forward",
+    "overall": "85",
+    "pace": "78",
+    "shooting": "86",
+    "passing": "77",
+    "defence": "46",
+    "dribbling": "83",
+    "physical": "72",
+    "displayPrice": [
+      "63",
+      "34",
+      "-27",
+      "-26"
+    ],
+    "sellingPrice": {
+      "A": [
+        "20",
+        "81",
+        "46",
+        "4"
+      ],
+      "B": [
+        "-35",
+        "88",
+        "-10",
+        "31"
+      ],
+      "C": [
+        "64",
+        "-50",
+        "56",
+        "-58"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Iago Aspas",
+    "nationality": "Spain",
+    "club": "RC Celta de Vigo",
+    "position": "Forward",
+    "overall": "85",
+    "pace": "82",
+    "shooting": "85",
+    "passing": "79",
+    "defence": "35",
+    "dribbling": "86",
+    "physical": "63",
+    "displayPrice": [
+      "55",
+      "-5",
+      "-28",
+      "-17"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-3",
+        "-77",
+        "40",
+        "-13"
+      ],
+      "B": [
+        "73",
+        "-56",
+        "3",
+        "-50"
+      ],
+      "C": [
+        "-28",
+        "79",
+        "54",
+        "-86"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Jamie Vardy",
+    "nationality": "United Kingdom ",
+    "club": "Leicester City FC",
+    "position": "Forward",
+    "overall": "85",
+    "pace": "84",
+    "shooting": "84",
+    "passing": "70",
+    "defence": "52",
+    "dribbling": "79",
+    "physical": "72",
+    "displayPrice": [
+      "-45",
+      "64",
+      "56",
+      "-44"
+    ],
+    "sellingPrice": {
+      "A": [
+        "63",
+        "-99",
+        "63",
+        "-98"
+      ],
+      "B": [
+        "-14",
+        "-34",
+        "-2",
+        "-59"
+      ],
+      "C": [
+        "-30",
+        "83",
+        "-72",
+        "-1"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Pierre-Emerick Aubameyang",
+    "nationality": "Gabon",
+    "club": "Chelsea ",
+    "position": "Forward",
+    "overall": "85",
+    "pace": "87",
+    "shooting": "84",
+    "passing": "74",
+    "defence": "36",
+    "dribbling": "79",
+    "physical": "68",
+    "displayPrice": [
+      "-46",
+      "-10",
+      "-63",
+      "84"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-2",
+        "-66",
+        "48",
+        "4"
+      ],
+      "B": [
+        "-91",
+        "37",
+        "16",
+        "-59"
+      ],
+      "C": [
+        "-58",
+        "-31",
+        "9",
+        "-2"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Joao Felix",
+    "nationality": "Portugal ",
+    "club": "Atletico Madrid",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "83",
+    "shooting": "80",
+    "passing": "81",
+    "defence": "40",
+    "dribbling": "88",
+    "physical": "67",
+    "displayPrice": [
+      "40",
+      "-96",
+      "86",
+      "78"
+    ],
+    "sellingPrice": {
+      "A": [
+        "22",
+        "95",
+        "-70",
+        "99"
+      ],
+      "B": [
+        "30",
+        "87",
+        "-13",
+        "-38"
+      ],
+      "C": [
+        "-49",
+        "-3",
+        "-82",
+        "-74"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Dusan Vlahovic",
+    "nationality": "Serbia",
+    "club": "Juventus",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "80",
+    "shooting": "85",
+    "passing": "66",
+    "defence": "28",
+    "dribbling": "78",
+    "physical": "79",
+    "displayPrice": [
+      "82",
+      "-64",
+      "7",
+      "88"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-17",
+        "68",
+        "-17",
+        "9"
+      ],
+      "B": [
+        "58",
+        "-23",
+        "23",
+        "-67"
+      ],
+      "C": [
+        "-49",
+        "-97",
+        "-24",
+        "94"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "WISSAMBEN YEDDER",
+    "nationality": "France",
+    "club": "AS Monaco",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "81",
+    "shooting": "84",
+    "passing": "78",
+    "defence": "39",
+    "dribbling": "88",
+    "physical": "68",
+    "displayPrice": [
+      "71",
+      "32",
+      "70",
+      "49"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-47",
+        "-30",
+        "47",
+        "-79"
+      ],
+      "B": [
+        "-15",
+        "-77",
+        "80",
+        "75"
+      ],
+      "C": [
+        "-72",
+        "79",
+        "-7",
+        "18"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "JACK GREALISH",
+    "nationality": "England",
+    "club": "Manchester City",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "76",
+    "shooting": "76",
+    "passing": "83",
+    "defence": "46",
+    "dribbling": "87",
+    "physical": "69",
+    "displayPrice": [
+      "-97",
+      "-88",
+      "92",
+      "-14"
+    ],
+    "sellingPrice": {
+      "A": [
+        "78",
+        "-62",
+        "79",
+        "-74"
+      ],
+      "B": [
+        "96",
+        "-69",
+        "-50",
+        "22"
+      ],
+      "C": [
+        "66",
+        "63",
+        "19",
+        "-22"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "OYARZABAL",
+    "nationality": "Spain",
+    "club": "Real Sociedad",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "80",
+    "shooting": "83",
+    "passing": "81",
+    "defence": "41",
+    "dribbling": "84",
+    "physical": "62",
+    "displayPrice": [
+      "-67",
+      "46",
+      "-25",
+      "77"
+    ],
+    "sellingPrice": {
+      "A": [
+        "85",
+        "2",
+        "13",
+        "-45"
+      ],
+      "B": [
+        "2",
+        "43",
+        "85",
+        "-60"
+      ],
+      "C": [
+        "91",
+        "-48",
+        "13",
+        "7"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "FEDERICO CHIESA",
+    "nationality": "Italy",
+    "club": "Juventus",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "91",
+    "shooting": "81",
+    "passing": "76",
+    "defence": "48",
+    "dribbling": "86",
+    "physical": "73",
+    "displayPrice": [
+      "-37",
+      "-66",
+      "61",
+      "-70"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-41",
+        "70",
+        "82",
+        "-100"
+      ],
+      "B": [
+        "-28",
+        "-8",
+        "66",
+        "68"
+      ],
+      "C": [
+        "60",
+        "-90",
+        "-52",
+        "46"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "ANGEL DI MARIA",
+    "nationality": "Argentina",
+    "club": "Juventus",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "79",
+    "shooting": "79",
+    "passing": "84",
+    "defence": "48",
+    "dribbling": "87",
+    "physical": "67",
+    "displayPrice": [
+      "56",
+      "30",
+      "-6",
+      "-86"
+    ],
+    "sellingPrice": {
+      "A": [
+        "76",
+        "-90",
+        "4",
+        "-9"
+      ],
+      "B": [
+        "-81",
+        "50",
+        "-3",
+        "28"
+      ],
+      "C": [
+        "-76",
+        "62",
+        "13",
+        "2"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "LUIS DIAZ",
+    "nationality": "Colombia",
+    "club": "Liverpool",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "91",
+    "shooting": "80",
+    "passing": "75",
+    "defence": "34",
+    "dribbling": "87",
+    "physical": "73",
+    "displayPrice": [
+      "10",
+      "71",
+      "-31",
+      "-49"
+    ],
+    "sellingPrice": {
+      "A": [
+        "27",
+        "43",
+        "45",
+        "-87"
+      ],
+      "B": [
+        "83",
+        "-27",
+        "13",
+        "69"
+      ],
+      "C": [
+        "-55",
+        "11",
+        "18",
+        "2"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "LUIS SUAREZ",
+    "nationality": "Uruguay",
+    "club": "Nacional",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "70",
+    "shooting": "86",
+    "passing": "78",
+    "defence": "46",
+    "dribbling": "78",
+    "physical": "81",
+    "displayPrice": [
+      "14",
+      "-36",
+      "70",
+      "73"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-62",
+        "19",
+        "59",
+        "-62"
+      ],
+      "B": [
+        "-15",
+        "81",
+        "10",
+        "90"
+      ],
+      "C": [
+        "4",
+        "-27",
+        "-96",
+        "-35"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "DUSAN TADIC",
+    "nationality": "Serbia",
+    "club": "Ajax",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "68",
+    "shooting": "81",
+    "passing": "86",
+    "defence": "43",
+    "dribbling": "84",
+    "physical": "77",
+    "displayPrice": [
+      "-80",
+      "-74",
+      "15",
+      "-48"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-24",
+        "-1",
+        "33",
+        "-86"
+      ],
+      "B": [
+        "-49",
+        "24",
+        "-78",
+        "-60"
+      ],
+      "C": [
+        "91",
+        "4",
+        "-44",
+        "-29"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Eden Hazard",
+    "nationality": "Belgium",
+    "club": "Real Madrid",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "83",
+    "shooting": "80",
+    "passing": "82",
+    "defence": "35",
+    "dribbling": "87",
+    "physical": "63",
+    "displayPrice": [
+      "-14",
+      "61",
+      "-98",
+      "73"
+    ],
+    "sellingPrice": {
+      "A": [
+        "39",
+        "-78",
+        "80",
+        "12"
+      ],
+      "B": [
+        "37",
+        "-95",
+        "15",
+        "-52"
+      ],
+      "C": [
+        "-46",
+        "-36",
+        "-97",
+        "-35"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Rafael Leao",
+    "nationality": "Portugal",
+    "club": "A.C Milan",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "91",
+    "shooting": "77",
+    "passing": "73",
+    "defence": "27",
+    "dribbling": "86",
+    "physical": "74",
+    "displayPrice": [
+      "64",
+      "-39",
+      "-32",
+      "-84"
+    ],
+    "sellingPrice": {
+      "A": [
+        "83",
+        "38",
+        "-77",
+        "-79"
+      ],
+      "B": [
+        "31",
+        "-41",
+        "8",
+        "-86"
+      ],
+      "C": [
+        "-98",
+        "-54",
+        "-83",
+        "24"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Jadon Sancho",
+    "nationality": "England",
+    "club": "Manchester United",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "81",
+    "shooting": "74",
+    "passing": "81",
+    "defence": "36",
+    "dribbling": "89",
+    "physical": "59",
+    "displayPrice": [
+      "-65",
+      "-35",
+      "38",
+      "-48"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-83",
+        "45",
+        "8",
+        "-84"
+      ],
+      "B": [
+        "-83",
+        "9",
+        "-61",
+        "100"
+      ],
+      "C": [
+        "-23",
+        "3",
+        "56",
+        "48"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Dries Mertens",
+    "nationality": "Belgium",
+    "club": "Galatasaray",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "83",
+    "shooting": "82",
+    "passing": "80",
+    "defence": "34",
+    "dribbling": "88",
+    "physical": "49",
+    "displayPrice": [
+      "37",
+      "98",
+      "17",
+      "-99"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-12",
+        "26",
+        "89",
+        "86"
+      ],
+      "B": [
+        "-57",
+        "-37",
+        "12",
+        "-89"
+      ],
+      "C": [
+        "12",
+        "-47",
+        "65",
+        "1"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Lorenzo Insigne",
+    "nationality": "Italy",
+    "club": "Toronto FC",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "84",
+    "shooting": "78",
+    "passing": "84",
+    "defence": "36",
+    "dribbling": "89",
+    "physical": "45",
+    "displayPrice": [
+      "51",
+      "13",
+      "-10",
+      "77"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-59",
+        "-34",
+        "-86",
+        "55"
+      ],
+      "B": [
+        "39",
+        "38",
+        "7",
+        "37"
+      ],
+      "C": [
+        "-33",
+        "92",
+        "34",
+        "-25"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Edin Dzeko",
+    "nationality": "Bosnia and Herzegovina",
+    "club": "Inter",
+    "position": "Forward",
+    "overall": "84",
+    "pace": "63",
+    "shooting": "84",
+    "passing": "71",
+    "defence": "45",
+    "dribbling": "77",
+    "physical": "75",
+    "displayPrice": [
+      "14",
+      "-6",
+      "16",
+      "-15"
+    ],
+    "sellingPrice": {
+      "A": [
+        "57",
+        "-5",
+        "-52",
+        "-56"
+      ],
+      "B": [
+        "-88",
+        "16",
+        "26",
+        "-28"
+      ],
+      "C": [
+        "-97",
+        "92",
+        "43",
+        "-74"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Angel Correa",
+    "nationality": "Argentina",
+    "club": "Athletico Madrid",
+    "position": "Forward",
+    "overall": "83",
+    "pace": "85",
+    "shooting": "84",
+    "passing": "77",
+    "defence": "50",
+    "dribbling": "87",
+    "physical": "74",
+    "displayPrice": [
+      "15",
+      "24",
+      "-46",
+      "95"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-79",
+        "35",
+        "42",
+        "60"
+      ],
+      "B": [
+        "19",
+        "-15",
+        "-83",
+        "66"
+      ],
+      "C": [
+        "90",
+        "-45",
+        "31",
+        "90"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Raphinha",
+    "nationality": "Brazil",
+    "club": "FC Barcelona",
+    "position": "Forward",
+    "overall": "83",
+    "pace": "91",
+    "shooting": "79",
+    "passing": "77",
+    "defence": "50",
+    "dribbling": "85",
+    "physical": "73",
+    "displayPrice": [
+      "-46",
+      "79",
+      "76",
+      "-16"
+    ],
+    "sellingPrice": {
+      "A": [
+        "10",
+        "43",
+        "-94",
+        "-51"
+      ],
+      "B": [
+        "-98",
+        "65",
+        "97",
+        "-96"
+      ],
+      "C": [
+        "-77",
+        "-80",
+        "93",
+        "-25"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Antoine Griezmann",
+    "nationality": "France",
+    "club": "Athletico Madrid",
+    "position": "Forward",
+    "overall": "83",
+    "pace": "80",
+    "shooting": "82",
+    "passing": "83",
+    "defence": "52",
+    "dribbling": "85",
+    "physical": "72",
+    "displayPrice": [
+      "51",
+      "86",
+      "97",
+      "-73"
+    ],
+    "sellingPrice": {
+      "A": [
+        "85",
+        "-65",
+        "9",
+        "30"
+      ],
+      "B": [
+        "-86",
+        "22",
+        "-75",
+        "-28"
+      ],
+      "C": [
+        "13",
+        "89",
+        "66",
+        "-63"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Roberto Fermino",
+    "nationality": "Brazil",
+    "club": "Liverpool",
+    "position": "Forward",
+    "overall": "83",
+    "pace": "74",
+    "shooting": "76",
+    "passing": "79",
+    "defence": "59",
+    "dribbling": "87",
+    "physical": "78",
+    "displayPrice": [
+      "1",
+      "66",
+      "-70",
+      "-36"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-47",
+        "-9",
+        "92",
+        "39"
+      ],
+      "B": [
+        "-37",
+        "77",
+        "-26",
+        "-84"
+      ],
+      "C": [
+        "5",
+        "-52",
+        "36",
+        "80"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Cody Gakpo",
+    "nationality": "Holland",
+    "club": "PSV",
+    "position": "Forward",
+    "overall": "83",
+    "pace": "87",
+    "shooting": "82",
+    "passing": "77",
+    "defence": "41",
+    "dribbling": "84",
+    "physical": "74",
+    "displayPrice": [
+      "94",
+      "-95",
+      "-48",
+      "-33"
+    ],
+    "sellingPrice": {
+      "A": [
+        "26",
+        "-42",
+        "-18",
+        "-82"
+      ],
+      "B": [
+        "-74",
+        "49",
+        "80",
+        "80"
+      ],
+      "C": [
+        "99",
+        "-14",
+        "-98",
+        "86"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Gabriel Jesus",
+    "nationality": "Brazil",
+    "club": "Arsenal",
+    "position": "Forward",
+    "overall": "83",
+    "pace": "84",
+    "shooting": "82",
+    "passing": "74",
+    "defence": "40",
+    "dribbling": "86",
+    "physical": "74",
+    "displayPrice": [
+      "3",
+      "-3",
+      "71",
+      "-6"
+    ],
+    "sellingPrice": {
+      "A": [
+        "66",
+        "-89",
+        "74",
+        "48"
+      ],
+      "B": [
+        "88",
+        "7",
+        "19",
+        "-48"
+      ],
+      "C": [
+        "-6",
+        "56",
+        "56",
+        "-86"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "De Tomas",
+    "nationality": "Spain",
+    "club": "Real Sociedad",
+    "position": "Forward",
+    "overall": "83",
+    "pace": "77",
+    "shooting": "84",
+    "passing": "77",
+    "defence": "40",
+    "dribbling": "83",
+    "physical": "78",
+    "displayPrice": [
+      "-33",
+      "43",
+      "-52",
+      "-95"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-69",
+        "-6",
+        "48",
+        "81"
+      ],
+      "B": [
+        "14",
+        "-82",
+        "-100",
+        "27"
+      ],
+      "C": [
+        "4",
+        "-1",
+        "-79",
+        "-33"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Hakim Ziyech",
+    "nationality": "Morocco",
+    "club": "Chelsa",
+    "position": "Forward",
+    "overall": "83",
+    "pace": "76",
+    "shooting": "77",
+    "passing": "87",
+    "defence": "50",
+    "dribbling": "83",
+    "physical": "65",
+    "displayPrice": [
+      "45",
+      "-63",
+      "82",
+      "-28"
+    ],
+    "sellingPrice": {
+      "A": [
+        "45",
+        "3",
+        "23",
+        "83"
+      ],
+      "B": [
+        "-33",
+        "-67",
+        "29",
+        "20"
+      ],
+      "C": [
+        "25",
+        "58",
+        "-90",
+        "-99"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Victor Osimhen",
+    "nationality": "Nigeria",
+    "club": "Napoli FC",
+    "position": "Forward",
+    "overall": "83",
+    "pace": "90",
+    "shooting": "82",
+    "passing": "65",
+    "defence": "40",
+    "dribbling": "78",
+    "physical": "81",
+    "displayPrice": [
+      "-36",
+      "27",
+      "-31",
+      "-9"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-12",
+        "64",
+        "33",
+        "-92"
+      ],
+      "B": [
+        "-19",
+        "28",
+        "-13",
+        "-14"
+      ],
+      "C": [
+        "-40",
+        "75",
+        "-65",
+        "68"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Marco Asensio",
+    "nationality": "Spain",
+    "club": "Real Madrid",
+    "position": "Forward",
+    "overall": "83",
+    "pace": "82",
+    "shooting": "80",
+    "passing": "81",
+    "defence": "43",
+    "dribbling": "83",
+    "physical": "62",
+    "displayPrice": [
+      "86",
+      "-74",
+      "-68",
+      "-42"
+    ],
+    "sellingPrice": {
+      "A": [
+        "38",
+        "0",
+        "97",
+        "-36"
+      ],
+      "B": [
+        "4",
+        "3",
+        "48",
+        "12"
+      ],
+      "C": [
+        "18",
+        "36",
+        "-12",
+        "-80"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Memphis Depay",
+    "nationality": "Netherlands ",
+    "club": "Barcelona ",
+    "position": "Forward",
+    "overall": "82",
+    "pace": "83",
+    "shooting": "84",
+    "passing": "82",
+    "defence": "30",
+    "dribbling": "86",
+    "physical": "79",
+    "displayPrice": [
+      "-22",
+      "20",
+      "-74",
+      "-31"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-59",
+        "35",
+        "-98",
+        "23"
+      ],
+      "B": [
+        "51",
+        "60",
+        "-51",
+        "74"
+      ],
+      "C": [
+        "-53",
+        "-87",
+        "-53",
+        "-29"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Thibaut Courtois",
+    "nationality": "Belgian",
+    "club": "Real Madrid",
+    "position": "Goal Keeper",
+    "overall": "90",
+    "pace": "84",
+    "shooting": "89",
+    "passing": "75",
+    "defence": "46",
+    "dribbling": "90",
+    "physical": "89",
+    "displayPrice": [
+      "11",
+      "99",
+      "-59",
+      "-22"
+    ],
+    "sellingPrice": {
+      "A": [
+        "84",
+        "25",
+        "-40",
+        "-8"
+      ],
+      "B": [
+        "-59",
+        "58",
+        "-94",
+        "-18"
+      ],
+      "C": [
+        "81",
+        "0",
+        "26",
+        "90"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/192119.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Manuel Neuer",
+    "nationality": "German",
+    "club": "Bayern Munich",
+    "position": "Goal Keeper",
+    "overall": "90",
+    "pace": "87",
+    "shooting": "88",
+    "passing": "91",
+    "defence": "56",
+    "dribbling": "88",
+    "physical": "91",
+    "displayPrice": [
+      "-58",
+      "10",
+      "0",
+      "-34"
+    ],
+    "sellingPrice": {
+      "A": [
+        "97",
+        "7",
+        "94",
+        "-66"
+      ],
+      "B": [
+        "-68",
+        "-79",
+        "52",
+        "79"
+      ],
+      "C": [
+        "27",
+        "-96",
+        "-75",
+        "-22"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/167495.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Alisson",
+    "nationality": "Brazil",
+    "club": "Liverpool",
+    "position": "Goal Keeper",
+    "overall": "89",
+    "pace": "86",
+    "shooting": "85",
+    "passing": "85",
+    "defence": "54",
+    "dribbling": "89",
+    "physical": "90",
+    "displayPrice": [
+      "-77",
+      "-84",
+      "-18",
+      "-28"
+    ],
+    "sellingPrice": {
+      "A": [
+        "52",
+        "-45",
+        "-33",
+        "69"
+      ],
+      "B": [
+        "63",
+        "-71",
+        "58",
+        "-82"
+      ],
+      "C": [
+        "-97",
+        "-89",
+        "-82",
+        "82"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/212831.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Ederson",
+    "nationality": "Brazil",
+    "club": "Manchester City",
+    "position": "Goal Keeper",
+    "overall": "89",
+    "pace": "87",
+    "shooting": "82",
+    "passing": "93",
+    "defence": "64",
+    "dribbling": "88",
+    "physical": "88",
+    "displayPrice": [
+      "-23",
+      "-52",
+      "63",
+      "-65"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-32",
+        "85",
+        "-62",
+        "50"
+      ],
+      "B": [
+        "73",
+        "6",
+        "-100",
+        "84"
+      ],
+      "C": [
+        "-99",
+        "-91",
+        "92",
+        "78"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/210257.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Jan Oblak",
+    "nationality": "Slovenia",
+    "club": "Athletico Madrid",
+    "position": "Goal Keeper",
+    "overall": "89",
+    "pace": "86",
+    "shooting": "90",
+    "passing": "78",
+    "defence": "49",
+    "dribbling": "89",
+    "physical": "87",
+    "displayPrice": [
+      "90",
+      "-35",
+      "17",
+      "-61"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-19",
+        "-92",
+        "-64",
+        "24"
+      ],
+      "B": [
+        "-33",
+        "-93",
+        "-11",
+        "-24"
+      ],
+      "C": [
+        "-61",
+        "6",
+        "76",
+        "22"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/200389.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Gianluigi Donnarumma",
+    "nationality": "Italy",
+    "club": "PSG",
+    "position": "Goal Keeper",
+    "overall": "88",
+    "pace": "90",
+    "shooting": "83",
+    "passing": "79",
+    "defence": "52",
+    "dribbling": "89",
+    "physical": "85",
+    "displayPrice": [
+      "45",
+      "-25",
+      "83",
+      "90"
+    ],
+    "sellingPrice": {
+      "A": [
+        "99",
+        "-80",
+        "85",
+        "13"
+      ],
+      "B": [
+        "-1",
+        "74",
+        "8",
+        "-74"
+      ],
+      "C": [
+        "50",
+        "-67",
+        "62",
+        "-89"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/230621.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Marc-Andre Ter Stegen",
+    "nationality": "German",
+    "club": "Barcelona",
+    "position": "Goal Keeper",
+    "overall": "88",
+    "pace": "86",
+    "shooting": "85",
+    "passing": "87",
+    "defence": "47",
+    "dribbling": "90",
+    "physical": "85",
+    "displayPrice": [
+      "-85",
+      "-3",
+      "-43",
+      "36"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-54",
+        "69",
+        "96",
+        "-74"
+      ],
+      "B": [
+        "66",
+        "-69",
+        "3",
+        "59"
+      ],
+      "C": [
+        "-1",
+        "10",
+        "-63",
+        "19"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/192448.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Keylor Navas",
+    "nationality": "Costa Rica",
+    "club": "PSG",
+    "position": "Goal Keeper",
+    "overall": "88",
+    "pace": "89",
+    "shooting": "84",
+    "passing": "75",
+    "defence": "54",
+    "dribbling": "89",
+    "physical": "87",
+    "displayPrice": [
+      "-50",
+      "44",
+      "-40",
+      "-58"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-32",
+        "-57",
+        "-67",
+        "-85"
+      ],
+      "B": [
+        "31",
+        "59",
+        "46",
+        "1"
+      ],
+      "C": [
+        "-65",
+        "78",
+        "3",
+        "9"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/193041.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Mike Maignan",
+    "nationality": "French",
+    "club": "AC Milan",
+    "position": "Goal Keeper",
+    "overall": "87",
+    "pace": "85",
+    "shooting": "82",
+    "passing": "85",
+    "defence": "51",
+    "dribbling": "89",
+    "physical": "85",
+    "displayPrice": [
+      "54",
+      "4",
+      "61",
+      "21"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-57",
+        "29",
+        "-65",
+        "-85"
+      ],
+      "B": [
+        "81",
+        "-70",
+        "1",
+        "23"
+      ],
+      "C": [
+        "65",
+        "-75",
+        "79",
+        "28"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/215698.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Hugo Lloris",
+    "nationality": "French",
+    "club": "Tottenham Hotspurs",
+    "position": "Goal Keeper",
+    "overall": "87",
+    "pace": "88",
+    "shooting": "83",
+    "passing": "74",
+    "defence": "61",
+    "dribbling": "88",
+    "physical": "84",
+    "displayPrice": [
+      "-24",
+      "-66",
+      "32",
+      "-22"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-10",
+        "-37",
+        "42",
+        "18"
+      ],
+      "B": [
+        "-86",
+        "-26",
+        "33",
+        "78"
+      ],
+      "C": [
+        "-86",
+        "28",
+        "84",
+        "-34"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/167948.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "De Gea",
+    "nationality": "Spanish",
+    "club": "Manchester United",
+    "position": "Goal Keeper",
+    "overall": "87",
+    "pace": "88",
+    "shooting": "80",
+    "passing": "76",
+    "defence": "51",
+    "dribbling": "89",
+    "physical": "84",
+    "displayPrice": [
+      "53",
+      "-18",
+      "93",
+      "-84"
+    ],
+    "sellingPrice": {
+      "A": [
+        "2",
+        "93",
+        "-98",
+        "-10"
+      ],
+      "B": [
+        "9",
+        "-29",
+        "32",
+        "58"
+      ],
+      "C": [
+        "-41",
+        "-41",
+        "-6",
+        "17"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/193080.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Edouard Mendy",
+    "nationality": "Senegal",
+    "club": "Chelsea",
+    "position": "Goal Keeper",
+    "overall": "86",
+    "pace": "84",
+    "shooting": "82",
+    "passing": "81",
+    "defence": "34",
+    "dribbling": "88",
+    "physical": "85",
+    "displayPrice": [
+      "-27",
+      "15",
+      "-44",
+      "-62"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-75",
+        "9",
+        "60",
+        "-4"
+      ],
+      "B": [
+        "46",
+        "22",
+        "91",
+        "-91"
+      ],
+      "C": [
+        "10",
+        "13",
+        "-70",
+        "44"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/234642.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Kevin Trapp",
+    "nationality": "German",
+    "club": "Eintracht Frankfurt",
+    "position": "Goal Keeper",
+    "overall": "86",
+    "pace": "84",
+    "shooting": "82",
+    "passing": "79",
+    "defence": "46",
+    "dribbling": "87",
+    "physical": "85",
+    "displayPrice": [
+      "40",
+      "-72",
+      "11",
+      "-5"
+    ],
+    "sellingPrice": {
+      "A": [
+        "86",
+        "-19",
+        "48",
+        "-42"
+      ],
+      "B": [
+        "95",
+        "-28",
+        "-59",
+        "-68"
+      ],
+      "C": [
+        "84",
+        "87",
+        "-77",
+        "-40"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/188943.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Wojciech Szczesny",
+    "nationality": "Polish",
+    "club": "Juventus",
+    "position": "Goal Keeper",
+    "overall": "86",
+    "pace": "86",
+    "shooting": "81",
+    "passing": "73",
+    "defence": "49",
+    "dribbling": "87",
+    "physical": "86",
+    "displayPrice": [
+      "72",
+      "57",
+      "-63",
+      "48"
+    ],
+    "sellingPrice": {
+      "A": [
+        "34",
+        "54",
+        "58",
+        "26"
+      ],
+      "B": [
+        "72",
+        "29",
+        "93",
+        "-39"
+      ],
+      "C": [
+        "-35",
+        "-34",
+        "-80",
+        "10"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/186153.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Yann Sommer",
+    "nationality": "Switzerland",
+    "club": "Borussia M'gladbac\n",
+    "position": "Goal Keeper",
+    "overall": "85",
+    "pace": "78",
+    "shooting": "81",
+    "passing": "82",
+    "defence": "50",
+    "dribbling": "90",
+    "physical": "86",
+    "displayPrice": [
+      "-80",
+      "-4",
+      "-96",
+      "81"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-99",
+        "-82",
+        "-75",
+        "33"
+      ],
+      "B": [
+        "84",
+        "-80",
+        "64",
+        "-44"
+      ],
+      "C": [
+        "-43",
+        "-99",
+        "11",
+        "-99"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/177683.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Peter Gulacsi",
+    "nationality": "Hungarian",
+    "club": "Rb Leipzig",
+    "position": "Goal Keeper",
+    "overall": "85",
+    "pace": "85",
+    "shooting": "84",
+    "passing": "76",
+    "defence": "43",
+    "dribbling": "85",
+    "physical": "83",
+    "displayPrice": [
+      "-93",
+      "59",
+      "-38",
+      "-78"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-28",
+        "4",
+        "-89",
+        "74"
+      ],
+      "B": [
+        "-71",
+        "-11",
+        "65",
+        "36"
+      ],
+      "C": [
+        "24",
+        "3",
+        "75",
+        "81"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/185122.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Emiliano Martinez",
+    "nationality": "Argentina",
+    "club": "Aston Villa",
+    "position": "Goal Keeper",
+    "overall": "84",
+    "pace": "85",
+    "shooting": "83",
+    "passing": "82",
+    "defence": "58",
+    "dribbling": "85",
+    "physical": "83",
+    "displayPrice": [
+      "-19",
+      "-72",
+      "-84",
+      "84"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-48",
+        "-85",
+        "43",
+        "93"
+      ],
+      "B": [
+        "19",
+        "-41",
+        "12",
+        "24"
+      ],
+      "C": [
+        "-28",
+        "-73",
+        "84",
+        "4"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/202811.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Koen Casteels",
+    "nationality": "Belgian",
+    "club": "Vfl Wolfsburg",
+    "position": "Goal Keeper",
+    "overall": "84",
+    "pace": "84",
+    "shooting": "82",
+    "passing": "79",
+    "defence": "45",
+    "dribbling": "86",
+    "physical": "84",
+    "displayPrice": [
+      "57",
+      "74",
+      "-17",
+      "-28"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-60",
+        "-46",
+        "29",
+        "-40"
+      ],
+      "B": [
+        "-41",
+        "-99",
+        "-50",
+        "-62"
+      ],
+      "C": [
+        "58",
+        "-50",
+        "-42",
+        "-40"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/192984.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Yassine Bounou",
+    "nationality": "Morrocon",
+    "club": "Sevilla",
+    "position": "Goal Keeper",
+    "overall": "84",
+    "pace": "84",
+    "shooting": "81",
+    "passing": "76",
+    "defence": "36",
+    "dribbling": "86",
+    "physical": "84",
+    "displayPrice": [
+      "58",
+      "-80",
+      "58",
+      "95"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-34",
+        "-84",
+        "-18",
+        "-72"
+      ],
+      "B": [
+        "-50",
+        "18",
+        "55",
+        "-5"
+      ],
+      "C": [
+        "-13",
+        "-24",
+        "37",
+        "-19"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/209981.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Samir Handanovic",
+    "nationality": "Slovenia",
+    "club": "Inter Milan",
+    "position": "Goal Keeper",
+    "overall": "84",
+    "pace": "80",
+    "shooting": "80",
+    "passing": "65",
+    "defence": "43",
+    "dribbling": "85",
+    "physical": "90",
+    "displayPrice": [
+      "-28",
+      "49",
+      "73",
+      "-63"
+    ],
+    "sellingPrice": {
+      "A": [
+        "29",
+        "69",
+        "60",
+        "84"
+      ],
+      "B": [
+        "-55",
+        "-23",
+        "6",
+        "-56"
+      ],
+      "C": [
+        "23",
+        "-95",
+        "-92",
+        "-90"
+      ]
+    },
+    "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/162835.png",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "nationality": "Belgium",
+    "club": "Man City",
+    "position": "Mid-Field",
+    "overall": "91",
+    "pace": "74",
+    "shooting": "88",
+    "passing": "93",
+    "defence": "64",
+    "dribbling": "87",
+    "physical": "77",
+    "displayPrice": [
+      "-56",
+      "23",
+      "-48",
+      "47"
+    ],
+    "sellingPrice": {
+      "A": [
+        "93",
+        "0",
+        "53",
+        "-73"
+      ],
+      "B": [
+        "-23",
+        "-19",
+        "23",
+        "-24"
+      ],
+      "C": [
+        "-68",
+        "28",
+        "72",
+        "39"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Sadio Mane",
+    "nationality": "Senegal",
+    "club": "Bayern Munich",
+    "position": "Mid-Field",
+    "overall": "89",
+    "pace": "90",
+    "shooting": "83",
+    "passing": "80",
+    "defence": "44",
+    "dribbling": "88",
+    "physical": "77",
+    "displayPrice": [
+      "-5",
+      "-42",
+      "16",
+      "-40"
+    ],
+    "sellingPrice": {
+      "A": [
+        "8",
+        "41",
+        "36",
+        "80"
+      ],
+      "B": [
+        "-12",
+        "-88",
+        "89",
+        "68"
+      ],
+      "C": [
+        "98",
+        "71",
+        "-72",
+        "-2"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Joshua Kimmich",
+    "nationality": "Germany",
+    "club": "Bayern Munich",
+    "position": "Mid-Field",
+    "overall": "89",
+    "pace": "68",
+    "shooting": "72",
+    "passing": "87",
+    "defence": "83",
+    "dribbling": "84",
+    "physical": "79",
+    "displayPrice": [
+      "-97",
+      "32",
+      "-41",
+      "-71"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-42",
+        "63",
+        "43",
+        "-30"
+      ],
+      "B": [
+        "-71",
+        "-50",
+        "-60",
+        "-27"
+      ],
+      "C": [
+        "-21",
+        "-14",
+        "-9",
+        "-33"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Casemiro",
+    "nationality": "Brazil",
+    "club": "Manchester United",
+    "position": "Mid-Field",
+    "overall": "89",
+    "pace": "63",
+    "shooting": "73",
+    "passing": "75",
+    "defence": "87",
+    "dribbling": "72",
+    "physical": "90",
+    "displayPrice": [
+      "59",
+      "-45",
+      "1",
+      "86"
+    ],
+    "sellingPrice": {
+      "A": [
+        "88",
+        "31",
+        "27",
+        "2"
+      ],
+      "B": [
+        "47",
+        "-89",
+        "35",
+        "47"
+      ],
+      "C": [
+        "-14",
+        "66",
+        "93",
+        "-23"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "N'Golo Kante",
+    "nationality": "France",
+    "club": "Chelsea",
+    "position": "Mid-Field",
+    "overall": "89",
+    "pace": "72",
+    "shooting": "66",
+    "passing": "74",
+    "defence": "87",
+    "dribbling": "81",
+    "physical": "82",
+    "displayPrice": [
+      "3",
+      "59",
+      "66",
+      "41"
+    ],
+    "sellingPrice": {
+      "A": [
+        "65",
+        "-23",
+        "0",
+        "9"
+      ],
+      "B": [
+        "-14",
+        "-11",
+        "-84",
+        "65"
+      ],
+      "C": [
+        "100",
+        "-89",
+        "-82",
+        "-74"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Toni Kroos",
+    "nationality": "Germany",
+    "club": "Real Madrid",
+    "position": "Mid-Field",
+    "overall": "88",
+    "pace": "53",
+    "shooting": "81",
+    "passing": "90",
+    "defence": "71",
+    "dribbling": "81",
+    "physical": "68",
+    "displayPrice": [
+      "-89",
+      "84",
+      "78",
+      "33"
+    ],
+    "sellingPrice": {
+      "A": [
+        "86",
+        "-25",
+        "96",
+        "18"
+      ],
+      "B": [
+        "-74",
+        "85",
+        "86",
+        "2"
+      ],
+      "C": [
+        "-45",
+        "95",
+        "48",
+        "73"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Luka Modric",
+    "nationality": "Croatia",
+    "club": "Real Madrid",
+    "position": "Mid-Field",
+    "overall": "88",
+    "pace": "73",
+    "shooting": "76",
+    "passing": "89",
+    "defence": "72",
+    "dribbling": "88",
+    "physical": "66",
+    "displayPrice": [
+      "83",
+      "-13",
+      "9",
+      "33"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-97",
+        "45",
+        "99",
+        "-68"
+      ],
+      "B": [
+        "99",
+        "-13",
+        "-63",
+        "-6"
+      ],
+      "C": [
+        "-91",
+        "87",
+        "55",
+        "-100"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Bernardo Silva",
+    "nationality": "Portugal",
+    "club": "Manchester City",
+    "position": "Mid-Field",
+    "overall": "88",
+    "pace": "77",
+    "shooting": "78",
+    "passing": "84",
+    "defence": "61",
+    "dribbling": "92",
+    "physical": "68",
+    "displayPrice": [
+      "31",
+      "99",
+      "8",
+      "-75"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-44",
+        "89",
+        "-85",
+        "-97"
+      ],
+      "B": [
+        "-89",
+        "100",
+        "-56",
+        "87"
+      ],
+      "C": [
+        "-17",
+        "80",
+        "-47",
+        "-51"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Fabinho",
+    "nationality": "Brazil",
+    "club": "Liverpool",
+    "position": "Mid-Field",
+    "overall": "87",
+    "pace": "66",
+    "shooting": "69",
+    "passing": "78",
+    "defence": "86",
+    "dribbling": "77",
+    "physical": "83",
+    "displayPrice": [
+      "55",
+      "40",
+      "-73",
+      "56"
+    ],
+    "sellingPrice": {
+      "A": [
+        "43",
+        "-41",
+        "-26",
+        "-63"
+      ],
+      "B": [
+        "-33",
+        "10",
+        "-62",
+        "-79"
+      ],
+      "C": [
+        "62",
+        "-2",
+        "2",
+        "7"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Thomas Muller",
+    "nationality": "Germany",
+    "club": "Bayern Munich",
+    "position": "Mid-Field",
+    "overall": "87",
+    "pace": "69",
+    "shooting": "84",
+    "passing": "83",
+    "defence": "56",
+    "dribbling": "80",
+    "physical": "71",
+    "displayPrice": [
+      "-32",
+      "19",
+      "52",
+      "-46"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-81",
+        "-17",
+        "-2",
+        "-76"
+      ],
+      "B": [
+        "-8",
+        "30",
+        "64",
+        "16"
+      ],
+      "C": [
+        "2",
+        "60",
+        "-89",
+        "-28"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Rodri",
+    "nationality": "Spain",
+    "club": "Manchester City",
+    "position": "Mid-Field",
+    "overall": "87",
+    "pace": "58",
+    "shooting": "72",
+    "passing": "78",
+    "defence": "83",
+    "dribbling": "79",
+    "physical": "84",
+    "displayPrice": [
+      "80",
+      "-52",
+      "-9",
+      "-100"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-35",
+        "80",
+        "98",
+        "4"
+      ],
+      "B": [
+        "-49",
+        "74",
+        "92",
+        "65"
+      ],
+      "C": [
+        "55",
+        "37",
+        "68",
+        "-14"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Frenkie De Jong",
+    "nationality": "Netherlands",
+    "club": "Barcelona",
+    "position": "Mid-Field",
+    "overall": "87",
+    "pace": "82",
+    "shooting": "69",
+    "passing": "86",
+    "defence": "77",
+    "dribbling": "87",
+    "physical": "78",
+    "displayPrice": [
+      "-15",
+      "-40",
+      "-12",
+      "57"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-95",
+        "25",
+        "40",
+        "-36"
+      ],
+      "B": [
+        "-90",
+        "13",
+        "-53",
+        "-22"
+      ],
+      "C": [
+        "-1",
+        "91",
+        "-60",
+        "-77"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Marco Verratti",
+    "nationality": "Italy",
+    "club": "PSG",
+    "position": "Mid-Field",
+    "overall": "87",
+    "pace": "60",
+    "shooting": "61",
+    "passing": "87",
+    "defence": "79",
+    "dribbling": "91",
+    "physical": "66",
+    "displayPrice": [
+      "-90",
+      "-34",
+      "-71",
+      "-71"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-71",
+        "-7",
+        "-49",
+        "80"
+      ],
+      "B": [
+        "-43",
+        "34",
+        "82",
+        "62"
+      ],
+      "C": [
+        "-11",
+        "-50",
+        "-77",
+        "93"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Leon Goretzka",
+    "nationality": "Germany",
+    "club": "Bayern Munich",
+    "position": "Mid-Field",
+    "overall": "87",
+    "pace": "78",
+    "shooting": "82",
+    "passing": "82",
+    "defence": "81",
+    "dribbling": "83",
+    "physical": "86",
+    "displayPrice": [
+      "-87",
+      "-60",
+      "-3",
+      "-93"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-45",
+        "3",
+        "-46",
+        "45"
+      ],
+      "B": [
+        "-60",
+        "51",
+        "38",
+        "-52"
+      ],
+      "C": [
+        "42",
+        "98",
+        "95",
+        "-5"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Thiago",
+    "nationality": "Spain",
+    "club": "Liverpool",
+    "position": "Mid-Field",
+    "overall": "86",
+    "pace": "61",
+    "shooting": "72",
+    "passing": "87",
+    "defence": "72",
+    "dribbling": "90",
+    "physical": "69",
+    "displayPrice": [
+      "-51",
+      "83",
+      "-6",
+      "-38"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-86",
+        "-88",
+        "13",
+        "-85"
+      ],
+      "B": [
+        "54",
+        "-54",
+        "-93",
+        "-97"
+      ],
+      "C": [
+        "-49",
+        "-76",
+        "59",
+        "-36"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Kingsley Coman",
+    "nationality": "France",
+    "club": "Bayern Munich",
+    "position": "Mid-Field",
+    "overall": "86",
+    "pace": "92",
+    "shooting": "77",
+    "passing": "79",
+    "defence": "30",
+    "dribbling": "87",
+    "physical": "62",
+    "displayPrice": [
+      "62",
+      "94",
+      "15",
+      "65"
+    ],
+    "sellingPrice": {
+      "A": [
+        "47",
+        "98",
+        "17",
+        "40"
+      ],
+      "B": [
+        "-53",
+        "-19",
+        "43",
+        "-50"
+      ],
+      "C": [
+        "-35",
+        "97",
+        "-8",
+        "16"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Sergej Milinkovic-Savic",
+    "nationality": "Serbia",
+    "club": "Latium",
+    "position": "Mid-Field",
+    "overall": "86",
+    "pace": "68",
+    "shooting": "80",
+    "passing": "82",
+    "defence": "79",
+    "dribbling": "82",
+    "physical": "86",
+    "displayPrice": [
+      "34",
+      "85",
+      "0",
+      "75"
+    ],
+    "sellingPrice": {
+      "A": [
+        "4",
+        "5",
+        "79",
+        "76"
+      ],
+      "B": [
+        "45",
+        "67",
+        "3",
+        "-83"
+      ],
+      "C": [
+        "-36",
+        "89",
+        "-21",
+        "69"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Nicolo Barella",
+    "nationality": "Italy",
+    "club": "Inter Milan",
+    "position": "Mid-Field",
+    "overall": "86",
+    "pace": "79",
+    "shooting": "76",
+    "passing": "83",
+    "defence": "77",
+    "dribbling": "84",
+    "physical": "81",
+    "displayPrice": [
+      "4",
+      "77",
+      "-43",
+      "-68"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-73",
+        "-71",
+        "7",
+        "-97"
+      ],
+      "B": [
+        "23",
+        "39",
+        "-41",
+        "-11"
+      ],
+      "C": [
+        "64",
+        "80",
+        "73",
+        "16"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Bruno Fernandes",
+    "nationality": "Portugal",
+    "club": "Manchester United",
+    "position": "Mid-Field",
+    "overall": "86",
+    "pace": "72",
+    "shooting": "86",
+    "passing": "88",
+    "defence": "67",
+    "dribbling": "81",
+    "physical": "76",
+    "displayPrice": [
+      "86",
+      "-28",
+      "66",
+      "31"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-19",
+        "-8",
+        "98",
+        "29"
+      ],
+      "B": [
+        "-29",
+        "78",
+        "57",
+        "16"
+      ],
+      "C": [
+        "-54",
+        "-63",
+        "-55",
+        "44"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Marcelo Brozovic",
+    "nationality": "Croatia",
+    "club": "Inter Milan",
+    "position": "Mid-Field",
+    "overall": "86",
+    "pace": "72",
+    "shooting": "86",
+    "passing": "88",
+    "defence": "67",
+    "dribbling": "81",
+    "physical": "76",
+    "displayPrice": [
+      "32",
+      "-39",
+      "5",
+      "-64"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-91",
+        "4",
+        "62",
+        "-6"
+      ],
+      "B": [
+        "-75",
+        "-67",
+        "-49",
+        "29"
+      ],
+      "C": [
+        "3",
+        "-8",
+        "-61",
+        "1"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Dani Parejo",
+    "nationality": "Spain",
+    "club": "Villarreal CF",
+    "position": "Mid-Field",
+    "overall": "86",
+    "pace": "50",
+    "shooting": "83",
+    "passing": "90",
+    "defence": "71",
+    "dribbling": "80",
+    "physical": "68",
+    "displayPrice": [
+      "-45",
+      "52",
+      "-30",
+      "71"
+    ],
+    "sellingPrice": {
+      "A": [
+        "90",
+        "-23",
+        "37",
+        "-33"
+      ],
+      "B": [
+        "6",
+        "77",
+        "-17",
+        "-46"
+      ],
+      "C": [
+        "-4",
+        "-52",
+        "57",
+        "30"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Ilkay Gundogan",
+    "nationality": "Germany",
+    "club": "Manchester City",
+    "position": "Mid-Field",
+    "overall": "85",
+    "pace": "64",
+    "shooting": "80",
+    "passing": "85",
+    "defence": "72",
+    "dribbling": "85",
+    "physical": "72",
+    "displayPrice": [
+      "37",
+      "80",
+      "-91",
+      "32"
+    ],
+    "sellingPrice": {
+      "A": [
+        "54",
+        "-96",
+        "12",
+        "-48"
+      ],
+      "B": [
+        "-16",
+        "-59",
+        "0",
+        "85"
+      ],
+      "C": [
+        "-61",
+        "56",
+        "82",
+        "97"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Paul Pogba",
+    "nationality": "France",
+    "club": "Juventus",
+    "position": "Mid-Field",
+    "overall": "85",
+    "pace": "67",
+    "shooting": "80",
+    "passing": "85",
+    "defence": "62",
+    "dribbling": "85",
+    "physical": "80",
+    "displayPrice": [
+      "-45",
+      "-39",
+      "75",
+      "31"
+    ],
+    "sellingPrice": {
+      "A": [
+        "95",
+        "-97",
+        "25",
+        "-53"
+      ],
+      "B": [
+        "0",
+        "-95",
+        "20",
+        "80"
+      ],
+      "C": [
+        "-53",
+        "100",
+        "21",
+        "61"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Jorginho",
+    "nationality": "Italy ",
+    "club": "Chelsea",
+    "position": "Mid-Field",
+    "overall": "85",
+    "pace": "54",
+    "shooting": "67",
+    "passing": "86",
+    "defence": "73",
+    "dribbling": "81",
+    "physical": "73",
+    "displayPrice": [
+      "-11",
+      "-88",
+      "-55",
+      "-36"
+    ],
+    "sellingPrice": {
+      "A": [
+        "59",
+        "-60",
+        "87",
+        "-63"
+      ],
+      "B": [
+        "-33",
+        "-21",
+        "54",
+        "-5"
+      ],
+      "C": [
+        "-2",
+        "27",
+        "-18",
+        "12"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Marco Reus",
+    "nationality": "Geramny",
+    "club": "BVB",
+    "position": "Mid-Field",
+    "overall": "85",
+    "pace": "70",
+    "shooting": "84",
+    "passing": "84",
+    "defence": "53",
+    "dribbling": "85",
+    "physical": "65",
+    "displayPrice": [
+      "-94",
+      "-18",
+      "41",
+      "60"
+    ],
+    "sellingPrice": {
+      "A": [
+        "17",
+        "94",
+        "60",
+        "58"
+      ],
+      "B": [
+        "-65",
+        "-45",
+        "-69",
+        "-23"
+      ],
+      "C": [
+        "-21",
+        "43",
+        "72",
+        "-48"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Serge Gnabry",
+    "nationality": "Germany",
+    "club": "Bayern Munich",
+    "position": "Mid-Field",
+    "overall": "85",
+    "pace": "82",
+    "shooting": "84",
+    "passing": "79",
+    "defence": "43",
+    "dribbling": "85",
+    "physical": "69",
+    "displayPrice": [
+      "-88",
+      "22",
+      "56",
+      "77"
+    ],
+    "sellingPrice": {
+      "A": [
+        "91",
+        "74",
+        "-67",
+        "-3"
+      ],
+      "B": [
+        "-13",
+        "-44",
+        "61",
+        "59"
+      ],
+      "C": [
+        "-39",
+        "3",
+        "48",
+        "-24"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "sergio Busquets",
+    "nationality": "Spain",
+    "club": "Barcelona",
+    "position": "Mid-Field",
+    "overall": "85",
+    "pace": "42",
+    "shooting": "62",
+    "passing": "79",
+    "defence": "82",
+    "dribbling": "79",
+    "physical": "73",
+    "displayPrice": [
+      "-78",
+      "-90",
+      "31",
+      "-48"
+    ],
+    "sellingPrice": {
+      "A": [
+        "78",
+        "-55",
+        "97",
+        "1"
+      ],
+      "B": [
+        "-8",
+        "60",
+        "-87",
+        "-22"
+      ],
+      "C": [
+        "54",
+        "87",
+        "0",
+        "-58"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Pedri",
+    "nationality": "Spain",
+    "club": "Barcelona",
+    "position": "Mid-Field",
+    "overall": "85",
+    "pace": "79",
+    "shooting": "67",
+    "passing": "81",
+    "defence": "68",
+    "dribbling": "87",
+    "physical": "73",
+    "displayPrice": [
+      "76",
+      "-84",
+      "88",
+      "-98"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-17",
+        "83",
+        "-37",
+        "26"
+      ],
+      "B": [
+        "-25",
+        "-94",
+        "-46",
+        "56"
+      ],
+      "C": [
+        "-10",
+        "94",
+        "94",
+        "-36"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Filip Kostic",
+    "nationality": "Serbia",
+    "club": "Juventus",
+    "position": "Mid-Field",
+    "overall": "85",
+    "pace": "84",
+    "shooting": "78",
+    "passing": "82",
+    "defence": "68",
+    "dribbling": "82",
+    "physical": "80",
+    "displayPrice": [
+      "29",
+      "84",
+      "44",
+      "53"
+    ],
+    "sellingPrice": {
+      "A": [
+        "52",
+        "-11",
+        "20",
+        "-91"
+      ],
+      "B": [
+        "21",
+        "82",
+        "73",
+        "15"
+      ],
+      "C": [
+        "-18",
+        "48",
+        "-46",
+        "23"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Jude Bellingham",
+    "nationality": "England",
+    "club": "BVB",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "75",
+    "shooting": "75",
+    "passing": "78",
+    "defence": "77",
+    "dribbling": "84",
+    "physical": "80",
+    "displayPrice": [
+      "-78",
+      "77",
+      "93",
+      "61"
+    ],
+    "sellingPrice": {
+      "A": [
+        "59",
+        "-6",
+        "69",
+        "-15"
+      ],
+      "B": [
+        "45",
+        "-67",
+        "35",
+        "-19"
+      ],
+      "C": [
+        "-17",
+        "-88",
+        "90",
+        "27"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Martin odegaard",
+    "nationality": "Norway",
+    "club": "Arsenal",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "76",
+    "shooting": "75",
+    "passing": "86",
+    "defence": "58",
+    "dribbling": "84",
+    "physical": "63",
+    "displayPrice": [
+      "-82",
+      "-96",
+      "20",
+      "-42"
+    ],
+    "sellingPrice": {
+      "A": [
+        "18",
+        "-26",
+        "80",
+        "95"
+      ],
+      "B": [
+        "-64",
+        "-15",
+        "40",
+        "-76"
+      ],
+      "C": [
+        "51",
+        "43",
+        "59",
+        "-30"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Declan Rice ",
+    "nationality": "England",
+    "club": "West Ham",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "71",
+    "shooting": "64",
+    "passing": "74",
+    "defence": "82",
+    "dribbling": "76",
+    "physical": "83",
+    "displayPrice": [
+      "4",
+      "7",
+      "20",
+      "95"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-93",
+        "68",
+        "78",
+        "-99"
+      ],
+      "B": [
+        "58",
+        "-34",
+        "-70",
+        "70"
+      ],
+      "C": [
+        "-11",
+        "57",
+        "56",
+        "-17"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Mason Mount",
+    "nationality": "England",
+    "club": "Chelsea",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "74",
+    "shooting": "81",
+    "passing": "85",
+    "defence": "55",
+    "dribbling": "82",
+    "physical": "67",
+    "displayPrice": [
+      "-5",
+      "-27",
+      "-22",
+      "73"
+    ],
+    "sellingPrice": {
+      "A": [
+        "23",
+        "27",
+        "30",
+        "27"
+      ],
+      "B": [
+        "-2",
+        "-39",
+        "-1",
+        "-58"
+      ],
+      "C": [
+        "-78",
+        "-25",
+        "-64",
+        "44"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Fede Valverde",
+    "nationality": "Uruguay",
+    "club": "Real Madrid",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "87",
+    "shooting": "74",
+    "passing": "79",
+    "defence": "78",
+    "dribbling": "79",
+    "physical": "80",
+    "displayPrice": [
+      "30",
+      "-67",
+      "20",
+      "95"
+    ],
+    "sellingPrice": {
+      "A": [
+        "10",
+        "-42",
+        "-73",
+        "-34"
+      ],
+      "B": [
+        "99",
+        "-10",
+        "64",
+        "-83"
+      ],
+      "C": [
+        "10",
+        "-44",
+        "-75",
+        "-86"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Rodri de paul",
+    "nationality": "Argentina",
+    "club": "Atletico De Madrid",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "78",
+    "shooting": "77",
+    "passing": "83",
+    "defence": "75",
+    "dribbling": "82",
+    "physical": "81",
+    "displayPrice": [
+      "19",
+      "1",
+      "-53",
+      "57"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-85",
+        "66",
+        "-55",
+        "11"
+      ],
+      "B": [
+        "-18",
+        "-39",
+        "-82",
+        "67"
+      ],
+      "C": [
+        "59",
+        "-85",
+        "31",
+        "29"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Sandro tonali",
+    "nationality": "Italy",
+    "club": "AC MILAN",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "81",
+    "shooting": "73",
+    "passing": "81",
+    "defence": "79",
+    "dribbling": "79",
+    "physical": "82",
+    "displayPrice": [
+      "-4",
+      "-19",
+      "-71",
+      "-26"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-79",
+        "-8",
+        "4",
+        "-19"
+      ],
+      "B": [
+        "85",
+        "-53",
+        "26",
+        "-12"
+      ],
+      "C": [
+        "52",
+        "-6",
+        "-34",
+        "33"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Frank Kessie",
+    "nationality": "Ivory Coast",
+    "club": "Barcelona",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "78",
+    "shooting": "76",
+    "passing": "74",
+    "defence": "82",
+    "dribbling": "79",
+    "physical": "87",
+    "displayPrice": [
+      "-4",
+      "-30",
+      "28",
+      "12"
+    ],
+    "sellingPrice": {
+      "A": [
+        "16",
+        "-72",
+        "-22",
+        "-41"
+      ],
+      "B": [
+        "59",
+        "31",
+        "37",
+        "38"
+      ],
+      "C": [
+        "8",
+        "-44",
+        "98",
+        "65"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Mateo Kovacic",
+    "nationality": "Croatia",
+    "club": "Chelsea",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "70",
+    "shooting": "69",
+    "passing": "83",
+    "defence": "71",
+    "dribbling": "88",
+    "physical": "71",
+    "displayPrice": [
+      "-50",
+      "-78",
+      "36",
+      "-89"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-73",
+        "88",
+        "-34",
+        "11"
+      ],
+      "B": [
+        "-91",
+        "40",
+        "-56",
+        "-55"
+      ],
+      "C": [
+        "-26",
+        "77",
+        "33",
+        "-35"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Ivan Perisic",
+    "nationality": "Croatia",
+    "club": "Tottenham",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "78",
+    "shooting": "81",
+    "passing": "79",
+    "defence": "74",
+    "dribbling": "82",
+    "physical": "78",
+    "displayPrice": [
+      "-55",
+      "74",
+      "-20",
+      "-20"
+    ],
+    "sellingPrice": {
+      "A": [
+        "51",
+        "-26",
+        "34",
+        "-56"
+      ],
+      "B": [
+        "36",
+        "-98",
+        "11",
+        "60"
+      ],
+      "C": [
+        "96",
+        "-40",
+        "30",
+        "-80"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Thomas Partey",
+    "nationality": "Ghana",
+    "club": "Arsenal",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "65",
+    "shooting": "71",
+    "passing": "81",
+    "defence": "80",
+    "dribbling": "80",
+    "physical": "83",
+    "displayPrice": [
+      "43",
+      "3",
+      "5",
+      "-73"
+    ],
+    "sellingPrice": {
+      "A": [
+        "93",
+        "-16",
+        "69",
+        "92"
+      ],
+      "B": [
+        "-82",
+        "-58",
+        "88",
+        "-78"
+      ],
+      "C": [
+        "14",
+        "28",
+        "-59",
+        "19"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Kai Havertz",
+    "nationality": "Germany",
+    "club": "Chelsea",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "81",
+    "shooting": "79",
+    "passing": "79",
+    "defence": "45",
+    "dribbling": "84",
+    "physical": "66",
+    "displayPrice": [
+      "-97",
+      "-95",
+      "-10",
+      "-61"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-10",
+        "3",
+        "-73",
+        "-45"
+      ],
+      "B": [
+        "-58",
+        "-43",
+        "-10",
+        "32"
+      ],
+      "C": [
+        "-96",
+        "-76",
+        "-88",
+        "-48"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Moussa Diaby",
+    "nationality": "France",
+    "club": "Bayern leverkusen",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "93",
+    "shooting": "73",
+    "passing": "75",
+    "defence": "42",
+    "dribbling": "87",
+    "physical": "59",
+    "displayPrice": [
+      "-48",
+      "-80",
+      "-6",
+      "46"
+    ],
+    "sellingPrice": {
+      "A": [
+        "9",
+        "52",
+        "-22",
+        "97"
+      ],
+      "B": [
+        "81",
+        "85",
+        "38",
+        "43"
+      ],
+      "C": [
+        "-65",
+        "-47",
+        "-33",
+        "71"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Marcos Llorente",
+    "nationality": "Spain",
+    "club": "Atletico De Madri",
+    "position": "Mid-Field",
+    "overall": "84",
+    "pace": "88",
+    "shooting": "79",
+    "passing": "81",
+    "defence": "78",
+    "dribbling": "82",
+    "physical": "81",
+    "displayPrice": [
+      "-44",
+      "-85",
+      "-14",
+      "-6"
+    ],
+    "sellingPrice": {
+      "A": [
+        "28",
+        "-75",
+        "-41",
+        "1"
+      ],
+      "B": [
+        "-82",
+        "-62",
+        "-88",
+        "60"
+      ],
+      "C": [
+        "-71",
+        "2",
+        "-80",
+        "-83"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "koke",
+    "nationality": "Spain",
+    "club": "Atletico De Madrid",
+    "position": "Mid-Field",
+    "overall": "83",
+    "pace": "70",
+    "shooting": "72",
+    "passing": "84",
+    "defence": "78",
+    "dribbling": "79",
+    "physical": "79",
+    "displayPrice": [
+      "53",
+      "73",
+      "-19",
+      "-84"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-5",
+        "-55",
+        "82",
+        "-65"
+      ],
+      "B": [
+        "43",
+        "24",
+        "-52",
+        "91"
+      ],
+      "C": [
+        "64",
+        "-98",
+        "-33",
+        "86"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Jordan Henderson",
+    "nationality": "England",
+    "club": "Liverpool",
+    "position": "Mid-Field",
+    "overall": "83",
+    "pace": "66",
+    "shooting": "74",
+    "passing": "83",
+    "defence": "78",
+    "dribbling": "78",
+    "physical": "81",
+    "displayPrice": [
+      "31",
+      "-23",
+      "-78",
+      "-5"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-63",
+        "98",
+        "70",
+        "-35"
+      ],
+      "B": [
+        "-85",
+        "56",
+        "19",
+        "-67"
+      ],
+      "C": [
+        "65",
+        "89",
+        "-30",
+        "84"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Ruben Neves",
+    "nationality": "Portugal",
+    "club": "Wolverhampton",
+    "position": "Mid-Field",
+    "overall": "83",
+    "pace": "58",
+    "shooting": "74",
+    "passing": "86",
+    "defence": "76",
+    "dribbling": "77",
+    "physical": "73",
+    "displayPrice": [
+      "3",
+      "22",
+      "-57",
+      "-27"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-75",
+        "74",
+        "-65",
+        "9"
+      ],
+      "B": [
+        "-35",
+        "56",
+        "-38",
+        "63"
+      ],
+      "C": [
+        "38",
+        "39",
+        "94",
+        "-68"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Aurelien Tchouameni",
+    "nationality": "France",
+    "club": "Real Madrid",
+    "position": "Mid-Field",
+    "overall": "82",
+    "pace": "70",
+    "shooting": "70",
+    "passing": "79",
+    "defence": "81",
+    "dribbling": "78",
+    "physical": "82",
+    "displayPrice": [
+      "85",
+      "-53",
+      "76",
+      "50"
+    ],
+    "sellingPrice": {
+      "A": [
+        "27",
+        "92",
+        "-30",
+        "-37"
+      ],
+      "B": [
+        "-12",
+        "46",
+        "-82",
+        "-100"
+      ],
+      "C": [
+        "-22",
+        "26",
+        "-35",
+        "-11"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Manuel Locatelli",
+    "nationality": "Italy",
+    "club": "Juventus",
+    "position": "Mid-Field",
+    "overall": "82",
+    "pace": "63",
+    "shooting": "72",
+    "passing": "79",
+    "defence": "79",
+    "dribbling": "78",
+    "physical": "79",
+    "displayPrice": [
+      "12",
+      "-42",
+      "13",
+      "-48"
+    ],
+    "sellingPrice": {
+      "A": [
+        "-38",
+        "47",
+        "-8",
+        "-25"
+      ],
+      "B": [
+        "-94",
+        "-89",
+        "85",
+        "-37"
+      ],
+      "C": [
+        "-52",
+        "83",
+        "6",
+        "36"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "James Maddison",
+    "nationality": "England",
+    "club": "Leicester City",
+    "position": "Mid-Field",
+    "overall": "82",
+    "pace": "73",
+    "shooting": "78",
+    "passing": "84",
+    "defence": "54",
+    "dribbling": "85",
+    "physical": "62",
+    "displayPrice": [
+      "34",
+      "-91",
+      "17",
+      "-48"
+    ],
+    "sellingPrice": {
+      "A": [
+        "80",
+        "-91",
+        "3",
+        "-71"
+      ],
+      "B": [
+        "59",
+        "-79",
+        "-5",
+        "65"
+      ],
+      "C": [
+        "7",
+        "90",
+        "-2",
+        "4"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  },
+  {
+    "name": "Christian Eriksen",
+    "nationality": "Denmark",
+    "club": "Manchester Unite",
+    "position": "Mid-Field",
+    "overall": "82",
+    "pace": "61",
+    "shooting": "78",
+    "passing": "88",
+    "defence": "53",
+    "dribbling": "80",
+    "physical": "52",
+    "displayPrice": [
+      "96",
+      "94",
+      "-41",
+      "26"
+    ],
+    "sellingPrice": {
+      "A": [
+        "35",
+        "-23",
+        "-71",
+        "-46"
+      ],
+      "B": [
+        "72",
+        "37",
+        "25",
+        "56"
+      ],
+      "C": [
+        "41",
+        "-82",
+        "-84",
+        "-37"
+      ]
+    },
+    "image": "",
+    "teams": [
+      "A",
+      "B",
+      "C"
+    ],
+    "disabled": false
+  }
+]

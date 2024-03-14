@@ -11,7 +11,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 39,
     "Physical": 78,
-    "Avg of 6 fields": 828400
+    "Avg of 6 fields": 828400,
+    "CreditTeams": ""
   },
   {
     "Name": "Kevin De Bruyne",
@@ -25,7 +26,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 64,
     "Physical": 77,
-    "Avg of 6 fields": 831500
+    "Avg of 6 fields": 831500,
+    "CreditTeams": ""
   },
   {
     "Name": "Robert Lewandowski",
@@ -39,7 +41,8 @@ const playerData = [
     "Dribbling": 86,
     "Defence": 44,
     "Physical": 83,
-    "Avg of 6 fields": 823900
+    "Avg of 6 fields": 823900,
+    "CreditTeams": ""
   },
   {
     "Name": "Kylian Mbappe",
@@ -53,7 +56,8 @@ const playerData = [
     "Dribbling": 94,
     "Defence": 34,
     "Physical": 64,
-    "Avg of 6 fields": 883000
+    "Avg of 6 fields": 883000,
+    "CreditTeams": ""
   },
   {
     "Name": "Lionel Messi",
@@ -67,7 +71,8 @@ const playerData = [
     "Dribbling": 94,
     "Defence": 34,
     "Physical": 64,
-    "Avg of 6 fields": 851000
+    "Avg of 6 fields": 851000,
+    "CreditTeams": ""
   },
   {
     "Name": "AchrafHakimi",
@@ -81,7 +86,8 @@ const playerData = [
     "Dribbling": 80,
     "Defence": 75,
     "Physical": 78,
-    "Avg of 6 fields": 779800
+    "Avg of 6 fields": 779800,
+    "CreditTeams": ""
   },
   {
     "Name": "Thibaut Courtois",
@@ -95,7 +101,8 @@ const playerData = [
     "Dribbling": 90,
     "Defence": 46,
     "Physical": 89,
-    "Avg of 6 fields": 788333.3333
+    "Avg of 6 fields": 788333.3333,
+    "CreditTeams": ""
   },
   {
     "Name": "Manuel Neuer",
@@ -109,7 +116,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 56,
     "Physical": 91,
-    "Avg of 6 fields": 835000
+    "Avg of 6 fields": 835000,
+    "CreditTeams": ""
   },
   {
     "Name": "Mohamed Salah",
@@ -123,7 +131,8 @@ const playerData = [
     "Dribbling": 90,
     "Defence": 45,
     "Physical": 75,
-    "Avg of 6 fields": 858000
+    "Avg of 6 fields": 858000,
+    "CreditTeams": ""
   },
   {
     "Name": "Cristiano Ronaldo",
@@ -137,7 +146,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 34,
     "Physical": 75,
-    "Avg of 6 fields": 826100
+    "Avg of 6 fields": 826100,
+    "CreditTeams": ""
   },
   {
     "Name": "Alisson",
@@ -151,7 +161,8 @@ const playerData = [
     "Dribbling": 89,
     "Defence": 54,
     "Physical": 90,
-    "Avg of 6 fields": 815000
+    "Avg of 6 fields": 815000,
+    "CreditTeams": ""
   },
   {
     "Name": "Ederson",
@@ -165,7 +176,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 64,
     "Physical": 88,
-    "Avg of 6 fields": 836666.6667
+    "Avg of 6 fields": 836666.6667,
+    "CreditTeams": ""
   },
   {
     "Name": "Jan Oblak",
@@ -179,7 +191,8 @@ const playerData = [
     "Dribbling": 89,
     "Defence": 49,
     "Physical": 87,
-    "Avg of 6 fields": 798333.3333
+    "Avg of 6 fields": 798333.3333,
+    "CreditTeams": ""
   },
   {
     "Name": "Sadio Mane",
@@ -193,7 +206,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 44,
     "Physical": 77,
-    "Avg of 6 fields": 776000
+    "Avg of 6 fields": 776000,
+    "CreditTeams": ""
   },
   {
     "Name": "Joshua Kimmich",
@@ -207,7 +221,8 @@ const playerData = [
     "Dribbling": 84,
     "Defence": 83,
     "Physical": 79,
-    "Avg of 6 fields": 814500
+    "Avg of 6 fields": 814500,
+    "CreditTeams": ""
   },
   {
     "Name": "Casemiro",
@@ -221,7 +236,8 @@ const playerData = [
     "Dribbling": 72,
     "Defence": 87,
     "Physical": 90,
-    "Avg of 6 fields": 761500
+    "Avg of 6 fields": 761500,
+    "CreditTeams": ""
   },
   {
     "Name": "N'Golo Kante",
@@ -235,7 +251,8 @@ const playerData = [
     "Dribbling": 81,
     "Defence": 87,
     "Physical": 82,
-    "Avg of 6 fields": 775000
+    "Avg of 6 fields": 775000,
+    "CreditTeams": ""
   },
   {
     "Name": "Neymar Jr.",
@@ -249,7 +266,8 @@ const playerData = [
     "Dribbling": 93,
     "Defence": 37,
     "Physical": 61,
-    "Avg of 6 fields": 834400
+    "Avg of 6 fields": 834400,
+    "CreditTeams": ""
   },
   {
     "Name": "Heung Min Son",
@@ -263,7 +281,8 @@ const playerData = [
     "Dribbling": 86,
     "Defence": 42,
     "Physical": 69,
-    "Avg of 6 fields": 839200
+    "Avg of 6 fields": 839200,
+    "CreditTeams": ""
   },
   {
     "Name": "Harry Kane",
@@ -277,7 +296,8 @@ const playerData = [
     "Dribbling": 82,
     "Defence": 47,
     "Physical": 82,
-    "Avg of 6 fields": 806500
+    "Avg of 6 fields": 806500,
+    "CreditTeams": ""
   },
   {
     "Name": "Alessandro Bastoni",
@@ -291,7 +311,8 @@ const playerData = [
     "Dribbling": 71,
     "Defence": 86,
     "Physical": 82,
-    "Avg of 6 fields": 757700
+    "Avg of 6 fields": 757700,
+    "CreditTeams": ""
   },
   {
     "Name": "AlphonsoDavies",
@@ -305,7 +326,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 76,
     "Physical": 77,
-    "Avg of 6 fields": 779200
+    "Avg of 6 fields": 779200,
+    "CreditTeams": ""
   },
   {
     "Name": "AndrewRobertson",
@@ -319,7 +341,8 @@ const playerData = [
     "Dribbling": 81,
     "Defence": 82,
     "Physical": 76,
-    "Avg of 6 fields": 788100
+    "Avg of 6 fields": 788100,
+    "CreditTeams": ""
   },
   {
     "Name": "Gianluigi Donnarumma",
@@ -333,7 +356,8 @@ const playerData = [
     "Dribbling": 89,
     "Defence": 52,
     "Physical": 85,
-    "Avg of 6 fields": 796666.6667
+    "Avg of 6 fields": 796666.6667,
+    "CreditTeams": ""
   },
   {
     "Name": "Marc-Andre Ter Stegen",
@@ -347,7 +371,8 @@ const playerData = [
     "Dribbling": 90,
     "Defence": 47,
     "Physical": 85,
-    "Avg of 6 fields": 800000
+    "Avg of 6 fields": 800000,
+    "CreditTeams": ""
   },
   {
     "Name": "Keylor Navas",
@@ -361,7 +386,8 @@ const playerData = [
     "Dribbling": 89,
     "Defence": 54,
     "Physical": 87,
-    "Avg of 6 fields": 796666.6667
+    "Avg of 6 fields": 796666.6667,
+    "CreditTeams": ""
   },
   {
     "Name": "Toni Kroos",
@@ -375,7 +401,8 @@ const playerData = [
     "Dribbling": 81,
     "Defence": 71,
     "Physical": 68,
-    "Avg of 6 fields": 781000
+    "Avg of 6 fields": 781000,
+    "CreditTeams": ""
   },
   {
     "Name": "Luka Modric",
@@ -389,7 +416,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 72,
     "Physical": 66,
-    "Avg of 6 fields": 810000
+    "Avg of 6 fields": 810000,
+    "CreditTeams": ""
   },
   {
     "Name": "Bernardo Silva",
@@ -403,7 +431,8 @@ const playerData = [
     "Dribbling": 92,
     "Defence": 61,
     "Physical": 68,
-    "Avg of 6 fields": 796500
+    "Avg of 6 fields": 796500,
+    "CreditTeams": ""
   },
   {
     "Name": "Erling Haaland",
@@ -417,7 +446,8 @@ const playerData = [
     "Dribbling": 80,
     "Defence": 49,
     "Physical": 87,
-    "Avg of 6 fields": 820300
+    "Avg of 6 fields": 820300,
+    "CreditTeams": ""
   },
   {
     "Name": "Angelino",
@@ -431,7 +461,8 @@ const playerData = [
     "Dribbling": 84,
     "Defence": 76,
     "Physical": 70,
-    "Avg of 6 fields": 772800
+    "Avg of 6 fields": 772800,
+    "CreditTeams": ""
   },
   {
     "Name": "AntonioRudiger",
@@ -445,7 +476,8 @@ const playerData = [
     "Dribbling": 67,
     "Defence": 86,
     "Physical": 85,
-    "Avg of 6 fields": 777600
+    "Avg of 6 fields": 777600,
+    "CreditTeams": ""
   },
   {
     "Name": "AymericLaporte",
@@ -459,7 +491,8 @@ const playerData = [
     "Dribbling": 69,
     "Defence": 86,
     "Physical": 79,
-    "Avg of 6 fields": 757400
+    "Avg of 6 fields": 757400,
+    "CreditTeams": ""
   },
   {
     "Name": "Bremmer",
@@ -473,7 +506,8 @@ const playerData = [
     "Dribbling": 65,
     "Defence": 84,
     "Physical": 79,
-    "Avg of 6 fields": 720200
+    "Avg of 6 fields": 720200,
+    "CreditTeams": ""
   },
   {
     "Name": "Mike Maignan",
@@ -487,7 +521,8 @@ const playerData = [
     "Dribbling": 89,
     "Defence": 51,
     "Physical": 85,
-    "Avg of 6 fields": 795000
+    "Avg of 6 fields": 795000,
+    "CreditTeams": ""
   },
   {
     "Name": "Hugo Lloris",
@@ -501,7 +536,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 61,
     "Physical": 84,
-    "Avg of 6 fields": 796666.6667
+    "Avg of 6 fields": 796666.6667,
+    "CreditTeams": ""
   },
   {
     "Name": "De Gea",
@@ -515,7 +551,8 @@ const playerData = [
     "Dribbling": 89,
     "Defence": 51,
     "Physical": 84,
-    "Avg of 6 fields": 780000
+    "Avg of 6 fields": 780000,
+    "CreditTeams": ""
   },
   {
     "Name": "Fabinho",
@@ -529,7 +566,8 @@ const playerData = [
     "Dribbling": 77,
     "Defence": 86,
     "Physical": 83,
-    "Avg of 6 fields": 773500
+    "Avg of 6 fields": 773500,
+    "CreditTeams": ""
   },
   {
     "Name": "Thomas Muller",
@@ -543,7 +581,8 @@ const playerData = [
     "Dribbling": 80,
     "Defence": 56,
     "Physical": 71,
-    "Avg of 6 fields": 757000
+    "Avg of 6 fields": 757000,
+    "CreditTeams": ""
   },
   {
     "Name": "Rodri",
@@ -557,7 +596,8 @@ const playerData = [
     "Dribbling": 79,
     "Defence": 83,
     "Physical": 84,
-    "Avg of 6 fields": 770000
+    "Avg of 6 fields": 770000,
+    "CreditTeams": ""
   },
   {
     "Name": "Frenkie De Jong",
@@ -571,7 +611,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 77,
     "Physical": 78,
-    "Avg of 6 fields": 820000
+    "Avg of 6 fields": 820000,
+    "CreditTeams": ""
   },
   {
     "Name": "Marco Verratti",
@@ -585,7 +626,8 @@ const playerData = [
     "Dribbling": 91,
     "Defence": 79,
     "Physical": 66,
-    "Avg of 6 fields": 794000
+    "Avg of 6 fields": 794000,
+    "CreditTeams": ""
   },
   {
     "Name": "Leon Goretzka",
@@ -599,7 +641,8 @@ const playerData = [
     "Dribbling": 83,
     "Defence": 81,
     "Physical": 86,
-    "Avg of 6 fields": 821000
+    "Avg of 6 fields": 821000,
+    "CreditTeams": ""
   },
   {
     "Name": "Carajval",
@@ -613,7 +656,8 @@ const playerData = [
     "Dribbling": 80,
     "Defence": 78,
     "Physical": 79,
-    "Avg of 6 fields": 770700
+    "Avg of 6 fields": 770700,
+    "CreditTeams": ""
   },
   {
     "Name": "Christian Romero",
@@ -627,7 +671,8 @@ const playerData = [
     "Dribbling": 65,
     "Defence": 85,
     "Physical": 82,
-    "Avg of 6 fields": 728300
+    "Avg of 6 fields": 728300,
+    "CreditTeams": ""
   },
   {
     "Name": "DavidAlaba",
@@ -641,7 +686,8 @@ const playerData = [
     "Dribbling": 80,
     "Defence": 85,
     "Physical": 77,
-    "Avg of 6 fields": 807700
+    "Avg of 6 fields": 807700,
+    "CreditTeams": ""
   },
   {
     "Name": "Deigo Carlos",
@@ -655,7 +701,8 @@ const playerData = [
     "Dribbling": 67,
     "Defence": 82,
     "Physical": 82,
-    "Avg of 6 fields": 735500
+    "Avg of 6 fields": 735500,
+    "CreditTeams": ""
   },
   {
     "Name": "Edouard Mendy",
@@ -669,7 +716,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 34,
     "Physical": 85,
-    "Avg of 6 fields": 756666.6667
+    "Avg of 6 fields": 756666.6667,
+    "CreditTeams": ""
   },
   {
     "Name": "Kevin Trapp",
@@ -683,7 +731,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 46,
     "Physical": 85,
-    "Avg of 6 fields": 771666.6667
+    "Avg of 6 fields": 771666.6667,
+    "CreditTeams": ""
   },
   {
     "Name": "Wojciech Szczesny",
@@ -697,7 +746,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 49,
     "Physical": 86,
-    "Avg of 6 fields": 770000
+    "Avg of 6 fields": 770000,
+    "CreditTeams": ""
   },
   {
     "Name": "Thiago",
@@ -711,7 +761,8 @@ const playerData = [
     "Dribbling": 90,
     "Defence": 72,
     "Physical": 69,
-    "Avg of 6 fields": 796000
+    "Avg of 6 fields": 796000,
+    "CreditTeams": ""
   },
   {
     "Name": "Kingsley Coman",
@@ -725,7 +776,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 30,
     "Physical": 62,
-    "Avg of 6 fields": 730500
+    "Avg of 6 fields": 730500,
+    "CreditTeams": ""
   },
   {
     "Name": "Sergej Milinkovic-Savic",
@@ -739,7 +791,8 @@ const playerData = [
     "Dribbling": 82,
     "Defence": 79,
     "Physical": 86,
-    "Avg of 6 fields": 803500
+    "Avg of 6 fields": 803500,
+    "CreditTeams": ""
   },
   {
     "Name": "Nicolo Barella",
@@ -753,7 +806,8 @@ const playerData = [
     "Dribbling": 84,
     "Defence": 77,
     "Physical": 81,
-    "Avg of 6 fields": 810500
+    "Avg of 6 fields": 810500,
+    "CreditTeams": ""
   },
   {
     "Name": "Bruno Fernandes",
@@ -767,7 +821,8 @@ const playerData = [
     "Dribbling": 81,
     "Defence": 67,
     "Physical": 76,
-    "Avg of 6 fields": 801000
+    "Avg of 6 fields": 801000,
+    "CreditTeams": ""
   },
   {
     "Name": "Marcelo Brozovic",
@@ -781,7 +836,8 @@ const playerData = [
     "Dribbling": 81,
     "Defence": 67,
     "Physical": 76,
-    "Avg of 6 fields": 801000
+    "Avg of 6 fields": 801000,
+    "CreditTeams": ""
   },
   {
     "Name": "Dani Parejo",
@@ -795,7 +851,8 @@ const playerData = [
     "Dribbling": 80,
     "Defence": 71,
     "Physical": 68,
-    "Avg of 6 fields": 777500
+    "Avg of 6 fields": 777500,
+    "CreditTeams": ""
   },
   {
     "Name": "Vinicius Jr.",
@@ -809,7 +866,8 @@ const playerData = [
     "Dribbling": 90,
     "Defence": 29,
     "Physical": 67,
-    "Avg of 6 fields": 814800
+    "Avg of 6 fields": 814800,
+    "CreditTeams": ""
   },
   {
     "Name": "Christopher Nkunku",
@@ -823,7 +881,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 65,
     "Physical": 66,
-    "Avg of 6 fields": 829100
+    "Avg of 6 fields": 829100,
+    "CreditTeams": ""
   },
   {
     "Name": "Lautaro Martinez",
@@ -837,7 +896,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 48,
     "Physical": 84,
-    "Avg of 6 fields": 805100
+    "Avg of 6 fields": 805100,
+    "CreditTeams": ""
   },
   {
     "Name": "Paulo Dybala",
@@ -851,7 +911,8 @@ const playerData = [
     "Dribbling": 90,
     "Defence": 40,
     "Physical": 59,
-    "Avg of 6 fields": 818900
+    "Avg of 6 fields": 818900,
+    "CreditTeams": ""
   },
   {
     "Name": "Raheem Sterling",
@@ -865,7 +926,8 @@ const playerData = [
     "Dribbling": 86,
     "Defence": 45,
     "Physical": 67,
-    "Avg of 6 fields": 810200
+    "Avg of 6 fields": 810200,
+    "CreditTeams": ""
   },
   {
     "Name": "Riyad Mahrez",
@@ -879,7 +941,8 @@ const playerData = [
     "Dribbling": 90,
     "Defence": 38,
     "Physical": 60,
-    "Avg of 6 fields": 806700
+    "Avg of 6 fields": 806700,
+    "CreditTeams": ""
   },
   {
     "Name": "Ciro Immobile",
@@ -893,7 +956,8 @@ const playerData = [
     "Dribbling": 80,
     "Defence": 39,
     "Physical": 75,
-    "Avg of 6 fields": 793600
+    "Avg of 6 fields": 793600,
+    "CreditTeams": ""
   },
   {
     "Name": "Romelu Lukaku",
@@ -907,7 +971,8 @@ const playerData = [
     "Dribbling": 77,
     "Defence": 38,
     "Physical": 82,
-    "Avg of 6 fields": 784400
+    "Avg of 6 fields": 784400,
+    "CreditTeams": ""
   },
   {
     "Name": "Eder Militao",
@@ -921,7 +986,8 @@ const playerData = [
     "Dribbling": 72,
     "Defence": 85,
     "Physical": 82,
-    "Avg of 6 fields": 772400
+    "Avg of 6 fields": 772400,
+    "CreditTeams": ""
   },
   {
     "Name": "Ferland Mendy",
@@ -935,7 +1001,8 @@ const playerData = [
     "Dribbling": 78,
     "Defence": 78,
     "Physical": 84,
-    "Avg of 6 fields": 790200
+    "Avg of 6 fields": 790200,
+    "CreditTeams": ""
   },
   {
     "Name": "Fikayo Tomori",
@@ -949,7 +1016,8 @@ const playerData = [
     "Dribbling": 66,
     "Defence": 86,
     "Physical": 81,
-    "Avg of 6 fields": 737900
+    "Avg of 6 fields": 737900,
+    "CreditTeams": ""
   },
   {
     "Name": "Georgio Chiellini",
@@ -963,7 +1031,8 @@ const playerData = [
     "Dribbling": 58,
     "Defence": 85,
     "Physical": 83,
-    "Avg of 6 fields": 722700
+    "Avg of 6 fields": 722700,
+    "CreditTeams": ""
   },
   {
     "Name": "Jesus Navas",
@@ -977,7 +1046,8 @@ const playerData = [
     "Dribbling": 81,
     "Defence": 79,
     "Physical": 57,
-    "Avg of 6 fields": 739800
+    "Avg of 6 fields": 739800,
+    "CreditTeams": ""
   },
   {
     "Name": "Joao Cancelo",
@@ -991,7 +1061,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 81,
     "Physical": 73,
-    "Avg of 6 fields": 800800
+    "Avg of 6 fields": 800800,
+    "CreditTeams": ""
   },
   {
     "Name": "Yann Sommer",
@@ -1005,7 +1076,8 @@ const playerData = [
     "Dribbling": 90,
     "Defence": 50,
     "Physical": 86,
-    "Avg of 6 fields": 778333.3333
+    "Avg of 6 fields": 778333.3333,
+    "CreditTeams": ""
   },
   {
     "Name": "Peter Gulacsi",
@@ -1019,7 +1091,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 43,
     "Physical": 83,
-    "Avg of 6 fields": 760000
+    "Avg of 6 fields": 760000,
+    "CreditTeams": ""
   },
   {
     "Name": "Ilkay Gundogan",
@@ -1033,7 +1106,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 72,
     "Physical": 72,
-    "Avg of 6 fields": 791500
+    "Avg of 6 fields": 791500,
+    "CreditTeams": ""
   },
   {
     "Name": "Paul Pogba",
@@ -1047,7 +1121,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 62,
     "Physical": 80,
-    "Avg of 6 fields": 787500
+    "Avg of 6 fields": 787500,
+    "CreditTeams": ""
   },
   {
     "Name": "Jorginho",
@@ -1061,7 +1136,8 @@ const playerData = [
     "Dribbling": 81,
     "Defence": 73,
     "Physical": 73,
-    "Avg of 6 fields": 764000
+    "Avg of 6 fields": 764000,
+    "CreditTeams": ""
   },
   {
     "Name": "Marco Reus",
@@ -1075,7 +1151,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 53,
     "Physical": 65,
-    "Avg of 6 fields": 763000
+    "Avg of 6 fields": 763000,
+    "CreditTeams": ""
   },
   {
     "Name": "Serge Gnabry",
@@ -1089,7 +1166,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 43,
     "Physical": 69,
-    "Avg of 6 fields": 749000
+    "Avg of 6 fields": 749000,
+    "CreditTeams": ""
   },
   {
     "Name": "sergio Busquets",
@@ -1103,7 +1181,8 @@ const playerData = [
     "Dribbling": 79,
     "Defence": 82,
     "Physical": 73,
-    "Avg of 6 fields": 734500
+    "Avg of 6 fields": 734500,
+    "CreditTeams": ""
   },
   {
     "Name": "Pedri",
@@ -1117,7 +1196,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 68,
     "Physical": 73,
-    "Avg of 6 fields": 781500
+    "Avg of 6 fields": 781500,
+    "CreditTeams": ""
   },
   {
     "Name": "Filip Kostic",
@@ -1131,7 +1211,8 @@ const playerData = [
     "Dribbling": 82,
     "Defence": 68,
     "Physical": 80,
-    "Avg of 6 fields": 795000
+    "Avg of 6 fields": 795000,
+    "CreditTeams": ""
   },
   {
     "Name": "Phil Foden",
@@ -1145,7 +1226,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 56,
     "Physical": 60,
-    "Avg of 6 fields": 797900
+    "Avg of 6 fields": 797900,
+    "CreditTeams": ""
   },
   {
     "Name": "Diogo Jota",
@@ -1159,7 +1241,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 57,
     "Physical": 77,
-    "Avg of 6 fields": 813000
+    "Avg of 6 fields": 813000,
+    "CreditTeams": ""
   },
   {
     "Name": "Patrika Schick",
@@ -1173,7 +1256,8 @@ const playerData = [
     "Dribbling": 83,
     "Defence": 36,
     "Physical": 76,
-    "Avg of 6 fields": 779000
+    "Avg of 6 fields": 779000,
+    "CreditTeams": ""
   },
   {
     "Name": "Gerard Moreno",
@@ -1187,7 +1271,8 @@ const playerData = [
     "Dribbling": 83,
     "Defence": 46,
     "Physical": 72,
-    "Avg of 6 fields": 798600
+    "Avg of 6 fields": 798600,
+    "CreditTeams": ""
   },
   {
     "Name": "Iago Aspas",
@@ -1201,7 +1286,8 @@ const playerData = [
     "Dribbling": 86,
     "Defence": 35,
     "Physical": 63,
-    "Avg of 6 fields": 804300
+    "Avg of 6 fields": 804300,
+    "CreditTeams": ""
   },
   {
     "Name": "Jamie Vardy",
@@ -1215,7 +1301,8 @@ const playerData = [
     "Dribbling": 79,
     "Defence": 52,
     "Physical": 72,
-    "Avg of 6 fields": 786500
+    "Avg of 6 fields": 786500,
+    "CreditTeams": ""
   },
   {
     "Name": "Pierre-Emerick Aubameyang",
@@ -1229,7 +1316,8 @@ const playerData = [
     "Dribbling": 79,
     "Defence": 36,
     "Physical": 68,
-    "Avg of 6 fields": 789700
+    "Avg of 6 fields": 789700,
+    "CreditTeams": ""
   },
   {
     "Name": "Joel Mattip",
@@ -1243,7 +1331,8 @@ const playerData = [
     "Dribbling": 71,
     "Defence": 87,
     "Physical": 78,
-    "Avg of 6 fields": 752500
+    "Avg of 6 fields": 752500,
+    "CreditTeams": ""
   },
   {
     "Name": "John Stones",
@@ -1257,7 +1346,8 @@ const playerData = [
     "Dribbling": 75,
     "Defence": 84,
     "Physical": 77,
-    "Avg of 6 fields": 758400
+    "Avg of 6 fields": 758400,
+    "CreditTeams": ""
   },
   {
     "Name": "Jordi Alba",
@@ -1271,7 +1361,8 @@ const playerData = [
     "Dribbling": 82,
     "Defence": 77,
     "Physical": 70,
-    "Avg of 6 fields": 768600
+    "Avg of 6 fields": 768600,
+    "CreditTeams": ""
   },
   {
     "Name": "Jose Maria Gimenez",
@@ -1285,7 +1376,8 @@ const playerData = [
     "Dribbling": 60,
     "Defence": 85,
     "Physical": 83,
-    "Avg of 6 fields": 722500
+    "Avg of 6 fields": 722500,
+    "CreditTeams": ""
   },
   {
     "Name": "Juan Caurado",
@@ -1299,7 +1391,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 76,
     "Physical": 72,
-    "Avg of 6 fields": 775500
+    "Avg of 6 fields": 775500,
+    "CreditTeams": ""
   },
   {
     "Name": "JulesKounde",
@@ -1313,7 +1406,8 @@ const playerData = [
     "Dribbling": 74,
     "Defence": 85,
     "Physical": 78,
-    "Avg of 6 fields": 749600
+    "Avg of 6 fields": 749600,
+    "CreditTeams": ""
   },
   {
     "Name": "KalidouKoulibaly",
@@ -1327,7 +1421,8 @@ const playerData = [
     "Dribbling": 68,
     "Defence": 88,
     "Physical": 85,
-    "Avg of 6 fields": 749100
+    "Avg of 6 fields": 749100,
+    "CreditTeams": ""
   },
   {
     "Name": "Keiran Tripper",
@@ -1341,7 +1436,8 @@ const playerData = [
     "Dribbling": 77,
     "Defence": 80,
     "Physical": 72,
-    "Avg of 6 fields": 765900
+    "Avg of 6 fields": 765900,
+    "CreditTeams": ""
   },
   {
     "Name": "KyleWalker",
@@ -1355,7 +1451,8 @@ const playerData = [
     "Dribbling": 78,
     "Defence": 80,
     "Physical": 82,
-    "Avg of 6 fields": 790200
+    "Avg of 6 fields": 790200,
+    "CreditTeams": ""
   },
   {
     "Name": "Leonardo Bonucci",
@@ -1369,7 +1466,8 @@ const playerData = [
     "Dribbling": 71,
     "Defence": 85,
     "Physical": 78,
-    "Avg of 6 fields": 751500
+    "Avg of 6 fields": 751500,
+    "CreditTeams": ""
   },
   {
     "Name": "LucasHernandez",
@@ -1383,7 +1481,8 @@ const playerData = [
     "Dribbling": 71,
     "Defence": 84,
     "Physical": 80,
-    "Avg of 6 fields": 761700
+    "Avg of 6 fields": 761700,
+    "CreditTeams": ""
   },
   {
     "Name": "MarcosAcuna",
@@ -1397,7 +1496,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 80,
     "Physical": 83,
-    "Avg of 6 fields": 818800
+    "Avg of 6 fields": 818800,
+    "CreditTeams": ""
   },
   {
     "Name": "Marquinhos",
@@ -1411,7 +1511,8 @@ const playerData = [
     "Dribbling": 74,
     "Defence": 89,
     "Physical": 80,
-    "Avg of 6 fields": 793200
+    "Avg of 6 fields": 793200,
+    "CreditTeams": ""
   },
   {
     "Name": "Mats Hummel",
@@ -1425,7 +1526,8 @@ const playerData = [
     "Dribbling": 72,
     "Defence": 87,
     "Physical": 78,
-    "Avg of 6 fields": 772600
+    "Avg of 6 fields": 772600,
+    "CreditTeams": ""
   },
   {
     "Name": "Matthijsde Ligt",
@@ -1439,7 +1541,8 @@ const playerData = [
     "Dribbling": 69,
     "Defence": 84,
     "Physical": 87,
-    "Avg of 6 fields": 760400
+    "Avg of 6 fields": 760400,
+    "CreditTeams": ""
   },
   {
     "Name": "MilanSkriniar",
@@ -1453,7 +1556,8 @@ const playerData = [
     "Dribbling": 69,
     "Defence": 88,
     "Physical": 86,
-    "Avg of 6 fields": 752300
+    "Avg of 6 fields": 752300,
+    "CreditTeams": ""
   },
   {
     "Name": "NiklasSule",
@@ -1467,7 +1571,8 @@ const playerData = [
     "Dribbling": 59,
     "Defence": 85,
     "Physical": 83,
-    "Avg of 6 fields": 740200
+    "Avg of 6 fields": 740200,
+    "CreditTeams": ""
   },
   {
     "Name": "Pau Torres",
@@ -1481,7 +1586,8 @@ const playerData = [
     "Dribbling": 70,
     "Defence": 84,
     "Physical": 81,
-    "Avg of 6 fields": 745500
+    "Avg of 6 fields": 745500,
+    "CreditTeams": ""
   },
   {
     "Name": "Emiliano Martinez",
@@ -1495,7 +1601,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 58,
     "Physical": 83,
-    "Avg of 6 fields": 793333.3333
+    "Avg of 6 fields": 793333.3333,
+    "CreditTeams": ""
   },
   {
     "Name": "Koen Casteels",
@@ -1509,7 +1616,8 @@ const playerData = [
     "Dribbling": 86,
     "Defence": 45,
     "Physical": 84,
-    "Avg of 6 fields": 766666.6667
+    "Avg of 6 fields": 766666.6667,
+    "CreditTeams": ""
   },
   {
     "Name": "Yassine Bounou",
@@ -1523,7 +1631,8 @@ const playerData = [
     "Dribbling": 86,
     "Defence": 36,
     "Physical": 84,
-    "Avg of 6 fields": 745000
+    "Avg of 6 fields": 745000,
+    "CreditTeams": ""
   },
   {
     "Name": "Samir handanović",
@@ -1537,7 +1646,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 43,
     "Physical": 90,
-    "Avg of 6 fields": 738333.3333
+    "Avg of 6 fields": 738333.3333,
+    "CreditTeams": ""
   },
   {
     "Name": "Jude Bellingham",
@@ -1551,7 +1661,8 @@ const playerData = [
     "Dribbling": 84,
     "Defence": 77,
     "Physical": 80,
-    "Avg of 6 fields": 789500
+    "Avg of 6 fields": 789500,
+    "CreditTeams": ""
   },
   {
     "Name": "Martin odegaard",
@@ -1565,7 +1676,8 @@ const playerData = [
     "Dribbling": 84,
     "Defence": 58,
     "Physical": 63,
-    "Avg of 6 fields": 769000
+    "Avg of 6 fields": 769000,
+    "CreditTeams": ""
   },
   {
     "Name": "Declan Rice",
@@ -1579,7 +1691,8 @@ const playerData = [
     "Dribbling": 76,
     "Defence": 82,
     "Physical": 83,
-    "Avg of 6 fields": 753000
+    "Avg of 6 fields": 753000,
+    "CreditTeams": ""
   },
   {
     "Name": "Mason Mount",
@@ -1593,7 +1706,8 @@ const playerData = [
     "Dribbling": 82,
     "Defence": 55,
     "Physical": 67,
-    "Avg of 6 fields": 764500
+    "Avg of 6 fields": 764500,
+    "CreditTeams": ""
   },
   {
     "Name": "Fede Valverde",
@@ -1607,7 +1721,8 @@ const playerData = [
     "Dribbling": 79,
     "Defence": 78,
     "Physical": 80,
-    "Avg of 6 fields": 792500
+    "Avg of 6 fields": 792500,
+    "CreditTeams": ""
   },
   {
     "Name": "Rodri de paul",
@@ -1621,7 +1736,8 @@ const playerData = [
     "Dribbling": 82,
     "Defence": 75,
     "Physical": 81,
-    "Avg of 6 fields": 802500
+    "Avg of 6 fields": 802500,
+    "CreditTeams": ""
   },
   {
     "Name": "Sandro tonali",
@@ -1635,7 +1751,8 @@ const playerData = [
     "Dribbling": 79,
     "Defence": 79,
     "Physical": 82,
-    "Avg of 6 fields": 795000
+    "Avg of 6 fields": 795000,
+    "CreditTeams": ""
   },
   {
     "Name": "Frank Kessie",
@@ -1649,7 +1766,8 @@ const playerData = [
     "Dribbling": 79,
     "Defence": 82,
     "Physical": 87,
-    "Avg of 6 fields": 783500
+    "Avg of 6 fields": 783500,
+    "CreditTeams": ""
   },
   {
     "Name": "Mateo Kovacic",
@@ -1663,7 +1781,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 71,
     "Physical": 71,
-    "Avg of 6 fields": 785500
+    "Avg of 6 fields": 785500,
+    "CreditTeams": ""
   },
   {
     "Name": "Ivan Perisic",
@@ -1677,7 +1796,8 @@ const playerData = [
     "Dribbling": 82,
     "Defence": 74,
     "Physical": 78,
-    "Avg of 6 fields": 790000
+    "Avg of 6 fields": 790000,
+    "CreditTeams": ""
   },
   {
     "Name": "Thomas Partey",
@@ -1691,7 +1811,8 @@ const playerData = [
     "Dribbling": 80,
     "Defence": 80,
     "Physical": 83,
-    "Avg of 6 fields": 782000
+    "Avg of 6 fields": 782000,
+    "CreditTeams": ""
   },
   {
     "Name": "Kai Havertz",
@@ -1705,7 +1826,8 @@ const playerData = [
     "Dribbling": 84,
     "Defence": 45,
     "Physical": 66,
-    "Avg of 6 fields": 740500
+    "Avg of 6 fields": 740500,
+    "CreditTeams": ""
   },
   {
     "Name": "Moussa Diaby",
@@ -1719,7 +1841,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 42,
     "Physical": 59,
-    "Avg of 6 fields": 730500
+    "Avg of 6 fields": 730500,
+    "CreditTeams": ""
   },
   {
     "Name": "Marcos Llorente",
@@ -1733,7 +1856,8 @@ const playerData = [
     "Dribbling": 82,
     "Defence": 78,
     "Physical": 81,
-    "Avg of 6 fields": 813000
+    "Avg of 6 fields": 813000,
+    "CreditTeams": ""
   },
   {
     "Name": "Joao Felix",
@@ -1747,7 +1871,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 40,
     "Physical": 67,
-    "Avg of 6 fields": 803700
+    "Avg of 6 fields": 803700,
+    "CreditTeams": ""
   },
   {
     "Name": "Dusan Vlahovic",
@@ -1761,7 +1886,8 @@ const playerData = [
     "Dribbling": 78,
     "Defence": 28,
     "Physical": 79,
-    "Avg of 6 fields": 767600
+    "Avg of 6 fields": 767600,
+    "CreditTeams": ""
   },
   {
     "Name": "WISSAMBEN YEDDER",
@@ -1775,7 +1901,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 39,
     "Physical": 68,
-    "Avg of 6 fields": 807400
+    "Avg of 6 fields": 807400,
+    "CreditTeams": ""
   },
   {
     "Name": "JACK GREALISH",
@@ -1789,7 +1916,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 46,
     "Physical": 69,
-    "Avg of 6 fields": 781800
+    "Avg of 6 fields": 781800,
+    "CreditTeams": ""
   },
   {
     "Name": "OYARZABAL",
@@ -1803,7 +1931,8 @@ const playerData = [
     "Dribbling": 84,
     "Defence": 41,
     "Physical": 62,
-    "Avg of 6 fields": 794100
+    "Avg of 6 fields": 794100,
+    "CreditTeams": ""
   },
   {
     "Name": "FEDERICO CHIESA",
@@ -1817,7 +1946,8 @@ const playerData = [
     "Dribbling": 86,
     "Defence": 48,
     "Physical": 73,
-    "Avg of 6 fields": 817000
+    "Avg of 6 fields": 817000,
+    "CreditTeams": ""
   },
   {
     "Name": "ANGEL DI MARIA",
@@ -1831,7 +1961,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 48,
     "Physical": 67,
-    "Avg of 6 fields": 797900
+    "Avg of 6 fields": 797900,
+    "CreditTeams": ""
   },
   {
     "Name": "LUIS DIAZ",
@@ -1845,7 +1976,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 34,
     "Physical": 73,
-    "Avg of 6 fields": 809400
+    "Avg of 6 fields": 809400,
+    "CreditTeams": ""
   },
   {
     "Name": "LUIS SUAREZ",
@@ -1859,7 +1991,8 @@ const playerData = [
     "Dribbling": 78,
     "Defence": 46,
     "Physical": 81,
-    "Avg of 6 fields": 777000
+    "Avg of 6 fields": 777000,
+    "CreditTeams": ""
   },
   {
     "Name": "DUSAN TADIC",
@@ -1873,7 +2006,8 @@ const playerData = [
     "Dribbling": 84,
     "Defence": 43,
     "Physical": 77,
-    "Avg of 6 fields": 781400
+    "Avg of 6 fields": 781400,
+    "CreditTeams": ""
   },
   {
     "Name": "Eden Hazard",
@@ -1887,7 +2021,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 35,
     "Physical": 63,
-    "Avg of 6 fields": 798300
+    "Avg of 6 fields": 798300,
+    "CreditTeams": ""
   },
   {
     "Name": "Rafael Leao",
@@ -1901,7 +2036,8 @@ const playerData = [
     "Dribbling": 86,
     "Defence": 27,
     "Physical": 74,
-    "Avg of 6 fields": 792700
+    "Avg of 6 fields": 792700,
+    "CreditTeams": ""
   },
   {
     "Name": "Jadon Sancho",
@@ -1915,7 +2051,8 @@ const playerData = [
     "Dribbling": 89,
     "Defence": 36,
     "Physical": 59,
-    "Avg of 6 fields": 777800
+    "Avg of 6 fields": 777800,
+    "CreditTeams": ""
   },
   {
     "Name": "Dries Mertens",
@@ -1929,7 +2066,8 @@ const playerData = [
     "Dribbling": 88,
     "Defence": 34,
     "Physical": 49,
-    "Avg of 6 fields": 795000
+    "Avg of 6 fields": 795000,
+    "CreditTeams": ""
   },
   {
     "Name": "Lorenzo Insigne",
@@ -1943,7 +2081,8 @@ const playerData = [
     "Dribbling": 89,
     "Defence": 36,
     "Physical": 45,
-    "Avg of 6 fields": 791900
+    "Avg of 6 fields": 791900,
+    "CreditTeams": ""
   },
   {
     "Name": "Edin Dzeko",
@@ -1957,7 +2096,8 @@ const playerData = [
     "Dribbling": 77,
     "Defence": 45,
     "Physical": 75,
-    "Avg of 6 fields": 740000
+    "Avg of 6 fields": 740000,
+    "CreditTeams": ""
   },
   {
     "Name": "Pique",
@@ -1971,7 +2111,8 @@ const playerData = [
     "Dribbling": 68,
     "Defence": 84,
     "Physical": 77,
-    "Avg of 6 fields": 747500
+    "Avg of 6 fields": 747500,
+    "CreditTeams": ""
   },
   {
     "Name": "Presnel Kimpembe",
@@ -1985,7 +2126,8 @@ const playerData = [
     "Dribbling": 69,
     "Defence": 83,
     "Physical": 86,
-    "Avg of 6 fields": 761300
+    "Avg of 6 fields": 761300,
+    "CreditTeams": ""
   },
   {
     "Name": "Ralphael Varane",
@@ -1999,7 +2141,8 @@ const playerData = [
     "Dribbling": 66,
     "Defence": 85,
     "Physical": 80,
-    "Avg of 6 fields": 743800
+    "Avg of 6 fields": 743800,
+    "CreditTeams": ""
   },
   {
     "Name": "ReeceJames",
@@ -2013,7 +2156,8 @@ const playerData = [
     "Dribbling": 82,
     "Defence": 80,
     "Physical": 82,
-    "Avg of 6 fields": 806400
+    "Avg of 6 fields": 806400,
+    "CreditTeams": ""
   },
   {
     "Name": "Ricardo Periera",
@@ -2027,7 +2171,8 @@ const playerData = [
     "Dribbling": 81,
     "Defence": 80,
     "Physical": 73,
-    "Avg of 6 fields": 773800
+    "Avg of 6 fields": 773800,
+    "CreditTeams": ""
   },
   {
     "Name": "Ronald Araujo",
@@ -2041,7 +2186,8 @@ const playerData = [
     "Dribbling": 61,
     "Defence": 83,
     "Physical": 83,
-    "Avg of 6 fields": 739400
+    "Avg of 6 fields": 739400,
+    "CreditTeams": ""
   },
   {
     "Name": "Ruben Dias",
@@ -2055,7 +2201,8 @@ const playerData = [
     "Dribbling": 68,
     "Defence": 88,
     "Physical": 88,
-    "Avg of 6 fields": 766600
+    "Avg of 6 fields": 766600,
+    "CreditTeams": ""
   },
   {
     "Name": "Sergio Ramos",
@@ -2069,7 +2216,8 @@ const playerData = [
     "Dribbling": 70,
     "Defence": 83,
     "Physical": 77,
-    "Avg of 6 fields": 758300
+    "Avg of 6 fields": 758300,
+    "CreditTeams": ""
   },
   {
     "Name": "Stefan Slavic",
@@ -2083,7 +2231,8 @@ const playerData = [
     "Dribbling": 58,
     "Defence": 87,
     "Physical": 80,
-    "Avg of 6 fields": 710600
+    "Avg of 6 fields": 710600,
+    "CreditTeams": ""
   },
   {
     "Name": "Stephan De Vrij",
@@ -2097,7 +2246,8 @@ const playerData = [
     "Dribbling": 69,
     "Defence": 87,
     "Physical": 79,
-    "Avg of 6 fields": 743800
+    "Avg of 6 fields": 743800,
+    "CreditTeams": ""
   },
   {
     "Name": "TheoHernandez",
@@ -2111,7 +2261,8 @@ const playerData = [
     "Dribbling": 81,
     "Defence": 78,
     "Physical": 83,
-    "Avg of 6 fields": 795400
+    "Avg of 6 fields": 795400,
+    "CreditTeams": ""
   },
   {
     "Name": "Thiago Silva",
@@ -2125,7 +2276,8 @@ const playerData = [
     "Dribbling": 72,
     "Defence": 87,
     "Physical": 76,
-    "Avg of 6 fields": 757000
+    "Avg of 6 fields": 757000,
+    "CreditTeams": ""
   },
   {
     "Name": "TrentAlexander-Arnold",
@@ -2139,7 +2291,8 @@ const playerData = [
     "Dribbling": 80,
     "Defence": 80,
     "Physical": 73,
-    "Avg of 6 fields": 792300
+    "Avg of 6 fields": 792300,
+    "CreditTeams": ""
   },
   {
     "Name": "Virgil Van Dijik",
@@ -2153,7 +2306,8 @@ const playerData = [
     "Dribbling": 72,
     "Defence": 91,
     "Physical": 86,
-    "Avg of 6 fields": 806400
+    "Avg of 6 fields": 806400,
+    "CreditTeams": ""
   },
   {
     "Name": "koke",
@@ -2167,7 +2321,8 @@ const playerData = [
     "Dribbling": 79,
     "Defence": 78,
     "Physical": 79,
-    "Avg of 6 fields": 787500
+    "Avg of 6 fields": 787500,
+    "CreditTeams": ""
   },
   {
     "Name": "Jordan Henderson",
@@ -2181,7 +2336,8 @@ const playerData = [
     "Dribbling": 78,
     "Defence": 78,
     "Physical": 81,
-    "Avg of 6 fields": 782000
+    "Avg of 6 fields": 782000,
+    "CreditTeams": ""
   },
   {
     "Name": "Ruben Neves",
@@ -2195,7 +2351,8 @@ const playerData = [
     "Dribbling": 77,
     "Defence": 76,
     "Physical": 73,
-    "Avg of 6 fields": 769500
+    "Avg of 6 fields": 769500,
+    "CreditTeams": ""
   },
   {
     "Name": "Angel Correa",
@@ -2209,7 +2366,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 50,
     "Physical": 74,
-    "Avg of 6 fields": 819400
+    "Avg of 6 fields": 819400,
+    "CreditTeams": ""
   },
   {
     "Name": "Raphinha",
@@ -2223,7 +2381,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 50,
     "Physical": 73,
-    "Avg of 6 fields": 810800
+    "Avg of 6 fields": 810800,
+    "CreditTeams": ""
   },
   {
     "Name": "Antoine Griezmann",
@@ -2237,7 +2396,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 52,
     "Physical": 72,
-    "Avg of 6 fields": 807000
+    "Avg of 6 fields": 807000,
+    "CreditTeams": ""
   },
   {
     "Name": "Roberto Fermino",
@@ -2251,7 +2411,8 @@ const playerData = [
     "Dribbling": 87,
     "Defence": 59,
     "Physical": 78,
-    "Avg of 6 fields": 782400
+    "Avg of 6 fields": 782400,
+    "CreditTeams": ""
   },
   {
     "Name": "Cody Gakpo",
@@ -2265,7 +2426,8 @@ const playerData = [
     "Dribbling": 84,
     "Defence": 41,
     "Physical": 74,
-    "Avg of 6 fields": 806300
+    "Avg of 6 fields": 806300,
+    "CreditTeams": ""
   },
   {
     "Name": "Gabriel Jesus",
@@ -2279,7 +2441,8 @@ const playerData = [
     "Dribbling": 86,
     "Defence": 40,
     "Physical": 74,
-    "Avg of 6 fields": 800400
+    "Avg of 6 fields": 800400,
+    "CreditTeams": ""
   },
   {
     "Name": "De Tomas",
@@ -2293,7 +2456,8 @@ const playerData = [
     "Dribbling": 83,
     "Defence": 40,
     "Physical": 78,
-    "Avg of 6 fields": 791800
+    "Avg of 6 fields": 791800,
+    "CreditTeams": ""
   },
   {
     "Name": "Hakim Ziyech",
@@ -2307,7 +2471,8 @@ const playerData = [
     "Dribbling": 83,
     "Defence": 50,
     "Physical": 65,
-    "Avg of 6 fields": 780000
+    "Avg of 6 fields": 780000,
+    "CreditTeams": ""
   },
   {
     "Name": "Victor Osimhen",
@@ -2321,7 +2486,8 @@ const playerData = [
     "Dribbling": 78,
     "Defence": 40,
     "Physical": 81,
-    "Avg of 6 fields": 783100
+    "Avg of 6 fields": 783100,
+    "CreditTeams": ""
   },
   {
     "Name": "Marco Asensio",
@@ -2335,7 +2501,8 @@ const playerData = [
     "Dribbling": 83,
     "Defence": 43,
     "Physical": 62,
-    "Avg of 6 fields": 787400
+    "Avg of 6 fields": 787400,
+    "CreditTeams": ""
   },
   {
     "Name": "Aurelien Tchouameni",
@@ -2349,7 +2516,8 @@ const playerData = [
     "Dribbling": 78,
     "Defence": 81,
     "Physical": 82,
-    "Avg of 6 fields": 775500
+    "Avg of 6 fields": 775500,
+    "CreditTeams": ""
   },
   {
     "Name": "Manuel Locatelli",
@@ -2363,7 +2531,8 @@ const playerData = [
     "Dribbling": 78,
     "Defence": 79,
     "Physical": 79,
-    "Avg of 6 fields": 764500
+    "Avg of 6 fields": 764500,
+    "CreditTeams": ""
   },
   {
     "Name": "James Maddison",
@@ -2377,7 +2546,8 @@ const playerData = [
     "Dribbling": 85,
     "Defence": 54,
     "Physical": 62,
-    "Avg of 6 fields": 758500
+    "Avg of 6 fields": 758500,
+    "CreditTeams": ""
   },
   {
     "Name": "Christian Eriksen",
@@ -2391,7 +2561,8 @@ const playerData = [
     "Dribbling": 80,
     "Defence": 53,
     "Physical": 52,
-    "Avg of 6 fields": 734500
+    "Avg of 6 fields": 734500,
+    "CreditTeams": ""
   },
   {
     "Name": "Memphis Depay",
@@ -2405,7 +2576,8 @@ const playerData = [
     "Dribbling": 86,
     "Defence": 30,
     "Physical": 79,
-    "Avg of 6 fields": 815400
+    "Avg of 6 fields": 815400,
+    "CreditTeams": ""  
   }
 ]
 

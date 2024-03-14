@@ -3,15 +3,17 @@ import React, {useState, useRef} from 'react'
 import fifa23 from '../assets/fifa23'
 import playerData from '../assets/fifa23'
 import { UserButton, useUser } from '@clerk/nextjs';
-
+import Link from 'next/link';
 
 function DashbboardPage() {
   const {user, isLoaded} = useUser();
+  const [initialAmount, setInitialAmount] = useState(1000000);
       // Use useRef to create a ref that captures the current player and price values
   const playerRef = useRef(null);
   const priceRef = useRef('');
   const currentPlayer = playerRef.current;
   const currentPrice = priceRef.current;
+  
   const handleNegotiate = async (player, price) =>{
     if(isLoaded && user && currentPlayer){
       console.log(user.fullName);
@@ -45,13 +47,15 @@ function DashbboardPage() {
   
   return (
     <div>
-      <div>
-        DashbboardPage
+      <div className='flex justify-between items-center'>
+        <p className=''>DashbboardPage</p>
+        <p><Link href='/team'>Team</Link></p>
+        <p>Amount: {initialAmount}</p>
       </div>
       <div>
-      <p>Team</p>
+      <p>Market Place</p>
       <div className='grid grid-cols-5 gap-8'>
-      {playerData.slice(0, 10).map((player, index) => (
+      {playerData.slice(10).map((player, index) => (
         <div key={player.Name} className="max-w-sm mx-auto overflow-hidden h-56 w-56 border rounded-md border-white shadow-lg">
           {/* <img class="w-full" src="${player.image}" alt="${player.Name}" /> */}
           <div className="px-6 py-4">

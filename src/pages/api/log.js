@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 
 const transactionsFilePath = process.cwd()+ '/src/app/assets/transactions.json';
-
+const teamDataPath = process.cwd() + '/src/app/assets/teamdata.json';
 export default function handler(req, res) {
     if (req.method === 'POST') {
       const { user, player, price } = req.body;
@@ -16,15 +16,23 @@ export default function handler(req, res) {
         price: price,
         timestamp: new Date().toISOString()
       };
-
+      const team = {
+        teamLead: user.fullName,
+        footballPlayers: []
+      }
     // Read existing transactions from the file, if any
       let transactions = [];
+      let teamdata = [];
       try {
         transactions = JSON.parse(fs.readFileSync(transactionsFilePath, 'utf8'));
+        teamdata = JSON.parse(fs.readFileSync(teamDataPath, 'utf-8'));
       } catch (error) {
           console.error('Error reading transactions file:', error);
       }
       transactions.push(transaction);
+      for(let team = 0; team<teamdata.length; team++){
+        // if(teamdata[team].)
+      }
       try {
         fs.writeFileSync(transactionsFilePath, JSON.stringify(transactions, null, 2));
         console.log('Transaction logged successfully.');
