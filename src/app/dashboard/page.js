@@ -4,6 +4,7 @@ import fifa23 from '../assets/fifa23'
 import playerData from '../assets/fifa23'
 import { UserButton, useUser } from '@clerk/nextjs';
 import Link from 'next/link';
+import teamdata from '../assets/teamdata.json';
 
 function DashbboardPage() {
   const {user, isLoaded} = useUser();
@@ -13,7 +14,14 @@ function DashbboardPage() {
   const priceRef = useRef('');
   const currentPlayer = playerRef.current;
   const currentPrice = priceRef.current;
-  
+  let balance = 0;
+  if(isLoaded && user){    
+    const teamData = teamdata.users.find((userData) => userData.teamLead === user.fullName);
+    if(teamData)
+      balance = teamData.balance;
+    else
+      balance = 10000;
+  }
   const handleNegotiate = async (player, price) =>{
     if(isLoaded && user && currentPlayer){
       console.log(user.fullName);
@@ -50,7 +58,7 @@ function DashbboardPage() {
       <div className='flex justify-between items-center'>
         <p className=''>DashbboardPage</p>
         <p><Link href='/team'>Team</Link></p>
-        <p>Amount: {initialAmount}</p>
+        <p>Amount: {balance}</p>
       </div>
       <div>
       <p>Market Place</p>

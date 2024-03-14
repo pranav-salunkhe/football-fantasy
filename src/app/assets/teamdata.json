@@ -1,13 +1,3 @@
 {
-  "users": [
-    {
-      "teamLead": "Pranav Salunkhe",
-      "footballTeam": [
-        "Alisson",
-        "Neymar Jr.",
-        "Erling Haaland",
-        "Erling Haaland"
-      ]
-    }
-  ]
+  "users": []
 }

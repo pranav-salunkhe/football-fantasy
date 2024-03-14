@@ -3,9 +3,18 @@ import path from 'path';
 
 const teamDataFilePath = process.cwd() + '/src/app/assets/teamdata.json';
 
+function isPlayerInTeam(team, player) {
+    for(var i = 0; i<team.length; i++){
+        if(team[i] == player)
+            return true;
+    }
+    return false;
+}
+const BALANCE = 100000;
+
 export default function handler(req, res) {
   if (req.method === 'POST') {
-    const { user, player, action } = req.body;
+    const { user, player, action, price } = req.body;
 
     try {
       // Read the existing team data from the file
@@ -15,13 +24,16 @@ export default function handler(req, res) {
       var userTeam = teamData.users.find((userData) => userData.teamLead === user);
 
       if (!userTeam) {
-        userTeam = { teamLead: user, footballTeam: [] };
+        userTeam = { teamLead: user, footballTeam: [], balance: BALANCE };
         teamData.users.push(userTeam);
       }
 
       // Update the user's football team based on the action (accept or reject)
       if (action === 'accept') {
-        userTeam.footballTeam.push(player);
+        if(!isPlayerInTeam(userTeam.footballTeam, player)){
+            userTeam.footballTeam.push(player);
+            userTeam.balance -= price;
+        }
       }
       // Optionally handle rejection logic here if needed
 

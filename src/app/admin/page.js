@@ -6,14 +6,14 @@ import transactions from '../assets/transactions.json';
 
 async function AdminPage() {
 //   const {user, isLoaded} = useUser();
-  const handleAccept = async (user, playerName) => {
+  const handleAccept = async (user, playerName, price) => {
         try {
         const response = await fetch('/api/updateteam', {
             method: 'POST',
             headers: {
             'Content-Type': 'application/json',
             },
-            body: JSON.stringify({ user: user, player: playerName, action: 'accept' }),
+            body: JSON.stringify({ user: user, player: playerName, action: 'accept', price: price}),
         });
 
         if (response.ok) {
@@ -39,7 +39,7 @@ async function AdminPage() {
                 <p>Player Nationality: {transaction.playerNationality}</p>
                 <p>Price: {transaction.price}</p>
                 <p>Timestamp: {transaction.timestamp}</p>
-                <button onClick={() => handleAccept(transaction.user, transaction.playerName)}>Accept</button>
+                <button onClick={() => handleAccept(transaction.user, transaction.playerName, transaction.price)}>Accept</button>
             </div>
             ))}
         </div>
