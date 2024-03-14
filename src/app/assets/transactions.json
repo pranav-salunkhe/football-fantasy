@@ -61,5 +61,14 @@
     "playerNationality": "Brazil",
     "price": "",
     "timestamp": "2024-03-14T11:52:49.851Z"
+  },
+  {
+    "user": "Pranav Salunkhe",
+    "playerName": "Erling Haaland",
+    "playerPosition": "Forward",
+    "playerClub": "Manchester City",
+    "playerNationality": "Norway",
+    "price": "",
+    "timestamp": "2024-03-14T13:20:56.696Z"
   }
 ]
