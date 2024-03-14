@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const teamDataFilePath = process.cwd() + '/src/app/assets/teamdata.json';
+const teamDataFilePath = '../assets/teamdata.json';
 
 function isPlayerInTeam(team, player) {
     for(var i = 0; i<team.length; i++){

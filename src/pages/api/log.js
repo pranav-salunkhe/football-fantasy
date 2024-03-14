@@ -2,8 +2,8 @@
 import fs from 'fs';
 import path from 'path';
 
-const transactionsFilePath = process.cwd()+ '/src/app/assets/transactions.json';
-const teamDataPath = process.cwd() + '/src/app/assets/teamdata.json';
+const transactionsFilePath = '../assets/transactions.json';
+const teamDataPath = '../assets/teamdata.json';
 export default function handler(req, res) {
     if (req.method === 'POST') {
       const { user, player, price } = req.body;
