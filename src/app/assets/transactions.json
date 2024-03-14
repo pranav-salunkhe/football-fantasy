@@ -1,0 +1,38 @@
+[
+  {
+    "user": "Pranav Salunkhe",
+    "playerName": "Cristiano Ronaldo",
+    "playerPosition": "Forward",
+    "playerClub": "Manchester United",
+    "playerNationality": "Portugal",
+    "price": "1111",
+    "timestamp": "2024-03-14T09:39:28.578Z"
+  },
+  {
+    "user": "Pranav Salunkhe",
+    "playerName": "Cristiano Ronaldo",
+    "playerPosition": "Forward",
+    "playerClub": "Manchester United",
+    "playerNationality": "Portugal",
+    "price": "2222",
+    "timestamp": "2024-03-14T09:39:55.906Z"
+  },
+  {
+    "user": "Pranav Salunkhe",
+    "playerName": "Manuel Neuer",
+    "playerPosition": "Goal Keeper",
+    "playerClub": "Bayern Munich",
+    "playerNationality": "German",
+    "price": "3333",
+    "timestamp": "2024-03-14T09:48:18.691Z"
+  },
+  {
+    "user": "Pranav Salunkhe",
+    "playerName": "Robert Lewandowski",
+    "playerPosition": "Forward",
+    "playerClub": "Barcelona",
+    "playerNationality": "Poland",
+    "price": "",
+    "timestamp": "2024-03-14T09:56:06.965Z"
+  }
+]
